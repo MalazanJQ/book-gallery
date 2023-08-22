@@ -1,25 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import Gallery from './components/gallery.js';
 
-function App() {
+export default function MyApp() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+    <div>
+      <h1>YAY THIS FINALLY WORKS (mostly)</h1>
 
-export default App;
+      <Gallery />
+
+    </div>
+  )
+};
