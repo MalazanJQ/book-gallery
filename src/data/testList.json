@@ -1,0 +1,20 @@
+[
+    {
+        "year": 2017,
+        "title": "Dragon Reborn",
+        "rating": 3.5,
+        "image": "/images/Dragon_Reborn.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "Shadow Rising",
+        "rating": 4,
+        "image": "/images/Shadow_Rising.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "Fires of Heaven",
+        "rating": 4,
+        "image": "/images/Fires_of_Heaven.jpg"
+    }
+]

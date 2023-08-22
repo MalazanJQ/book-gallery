@@ -1,1277 +1,1532 @@
 [
- {
-   "year": 2017,
-   "title": "Dragon Reborn",
-   "rating": 3.5
- },
- {
-   "year": 2017,
-   "title": "Shadow Rising",
-   "rating": 4
- },
- {
-   "year": 2017,
-   "title": "Fires of Heaven",
-   "rating": 4
- },
- {
-   "year": 2017,
-   "title": "White Sand",
-   "rating": 3
- },
- {
-   "year": 2017,
-   "title": "Lord of Chaos",
-   "rating": 4
- },
- {
-   "year": 2017,
-   "title": "A Crown of Swords",
-   "rating": 4
- },
- {
-   "year": 2017,
-   "title": "Ninefox Gambit",
-   "rating": 4.5
- },
- {
-   "year": 2017,
-   "title": "Winter's Heart",
-   "rating": 4
- },
- {
-   "year": 2017,
-   "title": "Crossroads of Twilight",
-   "rating": 4
- },
- {
-   "year": 2017,
-   "title": "Sourcery",
-   "rating": 3
- },
- {
-   "year": 2017,
-   "title": "Raven Stratagem",
-   "rating": 5
- },
- {
-   "year": 2017,
-   "title": "Knife of Dreams",
-   "rating": 4
- },
- {
-   "year": 2017,
-   "title": "Mort",
-   "rating": 4
- },
- {
-   "year": 2017,
-   "title": "Wheel of Osheim",
-   "rating": 3.5
- },
- {
-   "year": 2017,
-   "title": "Equal Rites",
-   "rating": 4
- },
- {
-   "year": 2017,
-   "title": "The Gathering Storm",
-   "rating": 5
- },
- {
-   "year": 2018,
-   "title": "Oathbringer",
-   "rating": 5
- },
- {
-   "year": 2018,
-   "title": "Eric",
-   "rating": 4
- },
- {
-   "year": 2018,
-   "title": "Moving Pictures",
-   "rating": 3.5
- },
- {
-   "year": 2018,
-   "title": "The Dark Tower The Gunslinger",
-   "rating": 3.5
- },
- {
-   "year": 2018,
-   "title": "Witches Abroad",
-   "rating": 4.5
- },
- {
-   "year": 2018,
-   "title": "A Memory of Light",
-   "rating": 5
- },
- {
-   "year": 2018,
-   "title": "Jade City",
-   "rating": 3
- },
- {
-   "year": 2018,
-   "title": "Small Gods",
-   "rating": 4.5
- },
- {
-   "year": 2018,
-   "title": "Red Sister",
-   "rating": 3
- },
- {
-   "year": 2018,
-   "title": "The Dark Tower Drawing of the Three",
-   "rating": 5
- },
- {
-   "year": 2018,
-   "title": "The Dark Tower Wastelands",
-   "rating": 4
- },
- {
-   "year": 2018,
-   "title": "Dune",
-   "rating": 1
- },
- {
-   "year": 2018,
-   "title": "Reaper Man",
-   "rating": 4
- },
- {
-   "year": 2018,
-   "title": "Lords and Ladies",
-   "rating": 4
- },
- {
-   "year": 2018,
-   "title": "Age of Myth",
-   "rating": 4
- },
- {
-   "year": 2018,
-   "title": "Age of Swords",
-   "rating": 4
- },
- {
-   "year": 2019,
-   "title": "The Godfather",
-   "rating": 4
- },
- {
-   "year": 2019,
-   "title": "Men at Arms",
-   "rating": 5
- },
- {
-   "year": 2019,
-   "title": "What If",
-   "rating": 4
- },
- {
-   "year": 2019,
-   "title": "Raven Tower",
-   "rating": 4.5
- },
- {
-   "year": 2019,
-   "title": "Interesting Times",
-   "rating": 4
- },
- {
-   "year": 2019,
-   "title": "Maskerade",
-   "rating": 4
- },
- {
-   "year": 2019,
-   "title": "The Killing Moon",
-   "rating": 3.5
- },
- {
-   "year": 2019,
-   "title": "Garden of the Moon",
-   "rating": 4
- },
- {
-   "year": 2019,
-   "title": "Feet of Clay",
-   "rating": 4
- },
- {
-   "year": 2019,
-   "title": "Red Rising",
-   "rating": 3
- },
- {
-   "year": 2019,
-   "title": "Deadhouse Gates",
-   "rating": 5
- },
- {
-   "year": 2019,
-   "title": "Golden Son",
-   "rating": 3
- },
- {
-   "year": 2019,
-   "title": "Lions of Al-Rassan",
-   "rating": 5
- },
- {
-   "year": 2019,
-   "title": "The Hogfather",
-   "rating": 3.5
- },
- {
-   "year": 2019,
-   "title": "Age of Legend",
-   "rating": 4
- },
- {
-   "year": 2019,
-   "title": "Ancillary Justice",
-   "rating": 3.5
- },
- {
-   "year": 2019,
-   "title": "Ancillary Sword",
-   "rating": 3.5
- },
- {
-   "year": 2019,
-   "title": "Under Heaven",
-   "rating": 5
- },
- {
-   "year": 2019,
-   "title": "Ancillary Mercy",
-   "rating": 3.5
- },
- {
-   "year": 2019,
-   "title": "Memories of Ice",
-   "rating": 5
- },
- {
-   "year": 2019,
-   "title": "Way of Kings",
-   "rating": 5
- },
- {
-   "year": 2019,
-   "title": "The Last Continent",
-   "rating": 4.5
- },
- {
-   "year": 2019,
-   "title": "The Truth Discworld",
-   "rating": 5
- },
- {
-   "year": 2020,
-   "title": "The Summer Tree",
-   "rating": 3
- },
- {
-   "year": 2020,
-   "title": "Jingo",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "Sixteen Ways to Defend a Walled City",
-   "rating": 4.5
- },
- {
-   "year": 2020,
-   "title": "House of Chains",
-   "rating": 5
- },
- {
-   "year": 2020,
-   "title": "Riddle-Master of Hed",
-   "rating": 2.5
- },
- {
-   "year": 2020,
-   "title": "Memory Called Empire",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "Age of Death",
-   "rating": 3.5
- },
- {
-   "year": 2020,
-   "title": "The Darkest Road",
-   "rating": 3
- },
- {
-   "year": 2020,
-   "title": "The Wandering Fire",
-   "rating": 3
- },
- {
-   "year": 2020,
-   "title": "Lock In",
-   "rating": 3
- },
- {
-   "year": 2020,
-   "title": "Shadow (The Scavenger Trilogy)",
-   "rating": 3
- },
- {
-   "year": 2020,
-   "title": "Old Man's War",
-   "rating": 3
- },
- {
-   "year": 2020,
-   "title": "Blood of Elves",
-   "rating": 3
- },
- {
-   "year": 2020,
-   "title": "The Curse of Chalion",
-   "rating": 5
- },
- {
-   "year": 2020,
-   "title": "The Goblin Emperor",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "How To Absurd Scientific Advice for Common Real-World Problems",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "Paladin of Souls",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "A Song for Arbonne",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "The City We Became",
-   "rating": 2.5
- },
- {
-   "year": 2020,
-   "title": "The Hallowed Hunt",
-   "rating": 3.5
- },
- {
-   "year": 2020,
-   "title": "Sailing to Sarantium",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "Age of Empyre",
-   "rating": 3.5
- },
- {
-   "year": 2020,
-   "title": "Thief of Time",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "Lord of Emperors",
-   "rating": 5
- },
- {
-   "year": 2020,
-   "title": "Penric's Demon",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "The Collapsing Empire",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "Penric and the Shaman",
-   "rating": 3.5
- },
- {
-   "year": 2020,
-   "title": "The Consuming Fire",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "Carpe Jugulum",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "This is How you Lose the Time War",
-   "rating": 4.5
- },
- {
-   "year": 2020,
-   "title": "Exhalation",
-   "rating": 5
- },
- {
-   "year": 2020,
-   "title": "The Last Emperox",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "The Last Light of the Sun",
-   "rating": 3.5
- },
- {
-   "year": 2020,
-   "title": "The Fifth Elephant",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "River of Stars",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "The Black Prism",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "The Middlegame",
-   "rating": 3.5
- },
- {
-   "year": 2020,
-   "title": "Children of Earth and Sky",
-   "rating": 3.5
- },
- {
-   "year": 2020,
-   "title": "Gideon the Ninth",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "Oathbringer",
-   "rating": 5
- },
- {
-   "year": 2020,
-   "title": "How to Rule an Empire and Get Away With It",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "The Blinding Knife",
-   "rating": 3
- },
- {
-   "year": 2020,
-   "title": "Rhythm of War",
-   "rating": 5
- },
- {
-   "year": 2020,
-   "title": "A Brightness Long Ago",
-   "rating": 3.5
- },
- {
-   "year": 2020,
-   "title": "To be Taught, if Fortunate",
-   "rating": 3
- },
- {
-   "year": 2020,
-   "title": "Harrow the Ninth",
-   "rating": 3.5
- },
- {
-   "year": 2020,
-   "title": "The Amazing Maurice and His Educated Rodents",
-   "rating": 5
- },
- {
-   "year": 2020,
-   "title": "The Sandman",
-   "rating": 4
- },
- {
-   "year": 2020,
-   "title": "A Deadly Education",
-   "rating": 5
- },
- {
-   "year": 2021,
-   "title": "The Last Hero Discworld",
-   "rating": 3
- },
- {
-   "year": 2021,
-   "title": "The Android's Dream",
-   "rating": 2.5
- },
- {
-   "year": 2021,
-   "title": "The End of Everything",
-   "rating": 3
- },
- {
-   "year": 2021,
-   "title": "Midnight Tides",
-   "rating": 5
- },
- {
-   "year": 2021,
-   "title": "The Spirit Ring",
-   "rating": 3
- },
- {
-   "year": 2021,
-   "title": "Sabriel",
-   "rating": 3
- },
- {
-   "year": 2021,
-   "title": "The Broken Eye",
-   "rating": 4
- },
- {
-   "year": 2021,
-   "title": "Uprooted",
-   "rating": 5
- },
- {
-   "year": 2021,
-   "title": "Piranesi",
-   "rating": 5
- },
- {
-   "year": 2021,
-   "title": "Sorcerer's Legacy",
-   "rating": 3
- },
- {
-   "year": 2021,
-   "title": "The Library at Mount Char",
-   "rating": 5
- },
- {
-   "year": 2021,
-   "title": "Alaric the Goth",
-   "rating": 3
- },
- {
-   "year": 2021,
-   "title": "The Night Circus",
-   "rating": 2.5
- },
- {
-   "year": 2021,
-   "title": "The Angel and the Crows",
-   "rating": 3.5
- },
- {
-   "year": 2021,
-   "title": "The Moscow Rule",
-   "rating": 3.5
- },
- {
-   "year": 2021,
-   "title": "The Invisible Life of Addie LaRue",
-   "rating": 2
- },
- {
-   "year": 2021,
-   "title": "Sword of Destiny",
-   "rating": 2.5
- },
- {
-   "year": 2021,
-   "title": "Peak Secrets from the New Science of Expertise",
-   "rating": 4
- },
- {
-   "year": 2021,
-   "title": "A Desolation Called Peace",
-   "rating": 4
- },
- {
-   "year": 2021,
-   "title": "The Echo Wife",
-   "rating": 4
- },
- {
-   "year": 2021,
-   "title": "Witness for the Dead",
-   "rating": 3
- },
- {
-   "year": 2021,
-   "title": "Blacktongue Thief",
-   "rating": 3.5
- },
- {
-   "year": 2021,
-   "title": "The Last Graduate",
-   "rating": 5
- },
- {
-   "year": 2021,
-   "title": "The Bonehunters",
-   "rating": 5
- },
- {
-   "year": 2021,
-   "title": "All Systems Red",
-   "rating": 3
- },
- {
-   "year": 2021,
-   "title": "Artificial Condition",
-   "rating": 3
- },
- {
-   "year": 2021,
-   "title": "The Long Walk",
-   "rating": 3
- },
- {
-   "year": 2021,
-   "title": "The Plot",
-   "rating": 3
- },
- {
-   "year": 2021,
-   "title": "The Jasmine Throne",
-   "rating": 3
- },
- {
-   "year": 2021,
-   "title": "Monstrous Regiment",
-   "rating": 4
- },
- {
-   "year": 2021,
-   "title": "The Stranger Times",
-   "rating": 3
- },
- {
-   "year": 2021,
-   "title": "Empire of Pain",
-   "rating": 4
- },
- {
-   "year": 2021,
-   "title": "Hitchhiker's Guide to the Galaxy",
-   "rating": 4.5
- },
- {
-   "year": 2021,
-   "title": "Into the Wild",
-   "rating": 4
- },
- {
-   "year": 2021,
-   "title": "How to Make Friends and Influence People",
-   "rating": 4
- },
- {
-   "year": 2021,
-   "title": "The Restaurant at the End of the Universe",
-   "rating": 3
- },
- {
-   "year": 2022,
-   "title": "Into Thin Air",
-   "rating": 4
- },
- {
-   "year": 2022,
-   "title": "Elantris",
-   "rating": 4.5
- },
- {
-   "year": 2022,
-   "title": "Tower of Fear",
-   "rating": 2.5
- },
- {
-   "year": 2022,
-   "title": "World War Z",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "Bad Blood",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "Reaper's Gale",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "A Practical Guide to Conquering the World",
-   "rating": 4
- },
- {
-   "year": 2022,
-   "title": "A Shadow in Summer",
-   "rating": 4
- },
- {
-   "year": 2022,
-   "title": "Maybe You Should Talk to Someone",
-   "rating": 4.5
- },
- {
-   "year": 2022,
-   "title": "The Poppy War",
-   "rating": 3
- },
- {
-   "year": 2022,
-   "title": "22 Murders of Madison May",
-   "rating": 2
- },
- {
-   "year": 2022,
-   "title": "Anxious People",
-   "rating": 4
- },
- {
-   "year": 2022,
-   "title": "A Man With One of Those Faces",
-   "rating": 2.5
- },
- {
-   "year": 2022,
-   "title": "Less",
-   "rating": 1
- },
- {
-   "year": 2022,
-   "title": "A Hat Full of sky",
-   "rating": 3.5
- },
- {
-   "year": 2022,
-   "title": "The Thursday Murder Club",
-   "rating": 4
- },
- {
-   "year": 2022,
-   "title": "The Kaiju Preservation Society",
-   "rating": 2.5
- },
- {
-   "year": 2022,
-   "title": "The Ophiuchi Hotline",
-   "rating": 3
- },
- {
-   "year": 2022,
-   "title": "The Dragon Republic",
-   "rating": 4
- },
- {
-   "year": 2022,
-   "title": "The Man Who Died Twice",
-   "rating": 2
- },
- {
-   "year": 2022,
-   "title": "The Silent Patient",
-   "rating": 4
- },
- {
-   "year": 2022,
-   "title": "A Betrayal in Winter",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "Gone Girl",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "The Day that Never Comes",
-   "rating": 2
- },
- {
-   "year": 2022,
-   "title": "Dark Places",
-   "rating": 3
- },
- {
-   "year": 2022,
-   "title": "The Maidens",
-   "rating": 2.5
- },
- {
-   "year": 2022,
-   "title": "All the Seas of the World",
-   "rating": 3.5
- },
- {
-   "year": 2022,
-   "title": "Justice of Kings",
-   "rating": 3.5
- },
- {
-   "year": 2022,
-   "title": "Project Hail Mary",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "Toll the Hounds",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "Born a Crime",
-   "rating": 4.5
- },
- {
-   "year": 2022,
-   "title": "Going Postal",
-   "rating": 4.5
- },
- {
-   "year": 2022,
-   "title": "The Dragon's Path",
-   "rating": 4
- },
- {
-   "year": 2022,
-   "title": "Grief of Stones",
-   "rating": 3.5
- },
- {
-   "year": 2022,
-   "title": "The King's Blood",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "The Girl with the Dragon Tattoo",
-   "rating": 3
- },
- {
-   "year": 2022,
-   "title": "King's Dragon",
-   "rating": 2
- },
- {
-   "year": 2022,
-   "title": "Bullet Train",
-   "rating": 3.5
- },
- {
-   "year": 2022,
-   "title": "The Tyrant's Law",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "My Sister the Serial Killer",
-   "rating": 3.5
- },
- {
-   "year": 2022,
-   "title": "Kindred",
-   "rating": 4
- },
- {
-   "year": 2022,
-   "title": "The Secret History",
-   "rating": 2.5
- },
- {
-   "year": 2022,
-   "title": "The Burning God",
-   "rating": 2.5
- },
- {
-   "year": 2022,
-   "title": "The Widow's House",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "Sharp Objects",
-   "rating": 3
- },
- {
-   "year": 2022,
-   "title": "The Spider's War",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "7.5 Deaths of Eveyln Hardcastle",
-   "rating": 3
- },
- {
-   "year": 2022,
-   "title": "The Village of Eight Graves",
-   "rating": 2.5
- },
- {
-   "year": 2022,
-   "title": "Thud!",
-   "rating": 3.5
- },
- {
-   "year": 2022,
-   "title": "A Fatal Thing Happened on the Way to the Forum",
-   "rating": 3.5
- },
- {
-   "year": 2022,
-   "title": "The Martian",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "Dracula",
-   "rating": 2
- },
- {
-   "year": 2022,
-   "title": "Killers of the Flower Moon",
-   "rating": 3
- },
- {
-   "year": 2022,
-   "title": "An Autumn War",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "Hyperion",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "The Picture of Dorian Gray",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "Crying in Hmart",
-   "rating": 1.5
- },
- {
-   "year": 2022,
-   "title": "Tender is the Flesh",
-   "rating": 3.5
- },
- {
-   "year": 2022,
-   "title": "The Golden Enclaves",
-   "rating": 4
- },
- {
-   "year": 2022,
-   "title": "All the King's Men",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "Three Assassins",
-   "rating": 2.5
- },
- {
-   "year": 2022,
-   "title": "Rebecca",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "Hollow Kingdom",
-   "rating": 3
- },
- {
-   "year": 2022,
-   "title": "Pride and Prejudice",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "I'm Glad My Mom Died",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "This is Going to Hurt",
-   "rating": 3.5
- },
- {
-   "year": 2022,
-   "title": "Sense and Sensibility",
-   "rating": 3
- },
- {
-   "year": 2022,
-   "title": "Dust of Dreams",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "Persuasion",
-   "rating": 4
- },
- {
-   "year": 2022,
-   "title": "Nona the Ninth",
-   "rating": 3.5
- },
- {
-   "year": 2022,
-   "title": "No Country for Old Men",
-   "rating": 1.5
- },
- {
-   "year": 2022,
-   "title": "The Price of Spring",
-   "rating": 5
- },
- {
-   "year": 2022,
-   "title": "Silver Queendom",
-   "rating": 3.5
- },
- {
-   "year": 2022,
-   "title": "9 Princes of Amber",
-   "rating": 3
- },
- {
-   "year": 2022,
-   "title": "Empire of Exiles",
-   "rating": 3.5
- },
- {
-   "year": 2022,
-   "title": "Master of Djinn",
-   "rating": 3
- },
- {
-   "year": 2022,
-   "title": "Wizard of Earthsea",
-   "rating": 3
- },
- {
-   "year": 2022,
-   "title": "Black Water Sister",
-   "rating": 4.5
- },
- {
-   "year": 2022,
-   "title": "Guns of Avalon",
-   "rating": 3
- },
- {
-   "year": 2022,
-   "title": "The Devil in the White City",
-   "rating": 2.5
- },
- {
-   "year": 2022,
-   "title": "The Obsidian Tower",
-   "rating": 3.5
- },
- {
-   "year": 2022,
-   "title": "The Bone Shard Daughter",
-   "rating": 4
- },
- {
-   "year": 2022,
-   "title": "Pachinko",
-   "rating": 1
- },
- {
-   "year": 2023,
-   "title": "Piranesi",
-   "rating": 5
- },
- {
-   "year": 2023,
-   "title": "Master Assassins",
-   "rating": 5
- },
- {
-   "year": 2023,
-   "title": "Midnight Riot",
-   "rating": 3
- },
- {
-   "year": 2023,
-   "title": "The Traitor Baru Cormorant",
-   "rating": 4
- },
- {
-   "year": 2023,
-   "title": "The Bone Shard Emperor",
-   "rating": 4.5
- },
- {
-   "year": 2023,
-   "title": "Emma",
-   "rating": 5
- },
- {
-   "year": 2023,
-   "title": "Haroun and the Sea of Stories",
-   "rating": 2
- },
- {
-   "year": 2023,
-   "title": "The Quicksilver Court",
-   "rating": 3
- },
- {
-   "year": 2023,
-   "title": "Children of Time",
-   "rating": 4
- },
- {
-   "year": 2023,
-   "title": "Sea of Tranquility",
-   "rating": 2
- },
- {
-   "year": 2023,
-   "title": "The Book of Goose",
-   "rating": 3.5
- },
- {
-   "year": 2023,
-   "title": "Tyranny of Faith",
-   "rating": 2.5
- },
- {
-   "year": 2023,
-   "title": "The Monster Baru Cormorant",
-   "rating": 4
- },
- {
-   "year": 2023,
-   "title": "The Power",
-   "rating": 4
- },
- {
-   "year": 2023,
-   "title": "Northanger Abbey",
-   "rating": 3.5
- },
- {
-   "year": 2023,
-   "title": "Things Fall Apart",
-   "rating": 4
- },
- {
-   "year": 2023,
-   "title": "Jhereg",
-   "rating": 3
- },
- {
-   "year": 2023,
-   "title": "How the Other Half Eats",
-   "rating": 4
- },
- {
-   "year": 2023,
-   "title": "Children of Ruin",
-   "rating": 3.5
- },
- {
-   "year": 2023,
-   "title": "Trust",
-   "rating": 2
- },
- {
-   "year": 2023,
-   "title": "Every Heart a Doorway",
-   "rating": 2
- },
- {
-  "year": 2023,
-  "title": "The Bone Shard War",
-  "rating": 4.5
- },
- {
-  "year": 2023,
-  "title": "The Candy House",
-  "rating": 5
- },
- {
-  "year": 2023,
-  "title": "Priest of Bones",
-  "rating": 4
- },
- {
-  "year": 2023,
-  "title": "The Seven Husbands of Evelyn Hugo",
-  "rating": 3
- },
- {
-  "year": 2023,
-  "title": "Visit from the Goon Squad",
-  "rating": 5
- },
- {
-  "year": 2023,
-  "title": "Priest of Lies",
-  "rating": 4
- },
- {
-  "year": 2023,
-  "title": "The Tyrant Baru Cormorant",
-  "rating": 4
- },
- {
-  "year": 2023,
-  "title": "Klara and the Sun",
-  "rating": 2
- },
- {
-  "year": 2023,
-  "title": "Ivory Tomb",
-  "rating": 3.5
- },
- {
-  "year": 2023,
-  "title": "Mansfield Park",
-  "rating": 4
- },
- {
-  "year": 2023,
-  "title": "My Cousin Rachel",
-  "rating": 4
- }
+    {
+        "year": 2017,
+        "title": "Dragon Reborn",
+        "rating": 3.5,
+        "image": "/images/Dragon_Reborn.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "Shadow Rising",
+        "rating": 4,
+        "image": "/images/Shadow_Rising.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "Fires of Heaven",
+        "rating": 4,
+        "image": "/images/Fires_of_Heaven.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "White Sand Sanderson",
+        "rating": 3,
+        "image": "/images/White_Sand.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "Lord of Chaos",
+        "rating": 4,
+        "image": "/images/Lord_of_Chaos.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "A Crown of Swords",
+        "rating": 4,
+        "image": "/images/A_Crown_of_Swords.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "Ninefox Gambit",
+        "rating": 4.5,
+        "image": "/images/Ninefox_Gambit.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "Winter's Heart",
+        "rating": 4,
+        "image": "/images/Winter's_Heart.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "Crossroads of Twilight",
+        "rating": 4,
+        "image": "/images/Crossroads_of_Twilight.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "Sourcery",
+        "rating": 3,
+        "image": "/images/Sourcery.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "Raven Stratagem",
+        "rating": 5,
+        "image": "/images/Raven_Stratagem.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "Knife of Dreams",
+        "rating": 4,
+        "image": "/images/Knife_of_Dreams.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "Mort",
+        "rating": 4,
+        "image": "/images/Mort.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "Wheel of Osheim",
+        "rating": 3.5,
+        "image": "/images/Wheel_of_Osheim.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "Equal Rites",
+        "rating": 4,
+        "image": "/images/Equal_Rites.jpg"
+    },
+    {
+        "year": 2017,
+        "title": "The Gathering Storm",
+        "rating": 5,
+        "image": "/images/The_Gathering_Storm.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Oathbringer",
+        "rating": 5,
+        "image": "/images/Oathbringer.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Eric",
+        "rating": 4,
+        "image": "/images/Eric.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Moving Pictures",
+        "rating": 3.5,
+        "image": "/images/Moving_Pictures.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "The Dark Tower The Gunslinger",
+        "rating": 3.5,
+        "image": "/images/The_Dark_Tower_The_Gunslinger.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Witches Abroad",
+        "rating": 4.5,
+        "image": "/images/Witches_Abroad.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "A Memory of Light",
+        "rating": 5,
+        "image": "/images/A_Memory_of_Light.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Jade City",
+        "rating": 3,
+        "image": "/images/Jade_City.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Small Gods",
+        "rating": 4.5,
+        "image": "/images/Small_Gods.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Red Sister",
+        "rating": 3,
+        "image": "/images/Red_Sister.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "The Dark Tower Drawing of the Three",
+        "rating": 5,
+        "image": "/images/The_Dark_Tower_Drawing_of_the_Three.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "The Dark Tower Wastelands",
+        "rating": 4,
+        "image": "/images/The_Dark_Tower_Wastelands.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Dune",
+        "rating": 1,
+        "image": "/images/Dune.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Reaper Man",
+        "rating": 4,
+        "image": "/images/Reaper_Man.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Lords and Ladies",
+        "rating": 4,
+        "image": "/images/Lords_and_Ladies.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Age of Myth",
+        "rating": 4,
+        "image": "/images/Age_of_Myth.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Age of Swords",
+        "rating": 4,
+        "image": "/images/Age_of_Swords.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "The Godfather",
+        "rating": 4,
+        "image": "/images/The_Godfather.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Men at Arms",
+        "rating": 5,
+        "image": "/images/Men_at_Arms.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "What If",
+        "rating": 4,
+        "image": "/images/What_If.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Raven Tower",
+        "rating": 4.5,
+        "image": "/images/Raven_Tower.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Interesting Times",
+        "rating": 4,
+        "image": "/images/Interesting_Times.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Maskerade",
+        "rating": 4,
+        "image": "/images/Maskerade.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "The Killing Moon",
+        "rating": 3.5,
+        "image": "/images/The_Killing_Moon.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Garden of the Moon",
+        "rating": 4,
+        "image": "/images/Garden_of_the_Moon.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Feet of Clay",
+        "rating": 4,
+        "image": "/images/Feet_of_Clay.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Red Rising",
+        "rating": 3,
+        "image": "/images/Red_Rising.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Deadhouse Gates",
+        "rating": 5,
+        "image": "/images/Deadhouse_Gates.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Golden Son",
+        "rating": 3,
+        "image": "/images/Golden_Son.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Lions of Al-Rassan",
+        "rating": 5,
+        "image": "/images/Lions_of_Al-Rassan.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "The Hogfather",
+        "rating": 3.5,
+        "image": "/images/The_Hogfather.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Age of Legend",
+        "rating": 4,
+        "image": "/images/Age_of_Legend.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Ancillary Justice",
+        "rating": 3.5,
+        "image": "/images/Ancillary_Justice.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Ancillary Sword",
+        "rating": 3.5,
+        "image": "/images/Ancillary_Sword.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Under Heaven",
+        "rating": 5,
+        "image": "/images/Under_Heaven.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Ancillary Mercy",
+        "rating": 3.5,
+        "image": "/images/Ancillary_Mercy.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Memories of Ice",
+        "rating": 5,
+        "image": "/images/Memories_of_Ice.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "Way of Kings",
+        "rating": 5,
+        "image": "/images/Way_of_Kings.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "The Last Continent",
+        "rating": 4.5,
+        "image": "/images/The_Last_Continent.jpg"
+    },
+    {
+        "year": 2019,
+        "title": "The Truth Discworld",
+        "rating": 5,
+        "image": "/images/The_Truth_Discworld.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Summer Tree",
+        "rating": 3,
+        "image": "/images/The_Summer_Tree.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Jingo",
+        "rating": 4,
+        "image": "/images/Jingo.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Sixteen Ways to Defend a Walled City",
+        "rating": 4.5,
+        "image": "/images/Sixteen_Ways_to_Defend_a_Walled_City.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "House of Chains",
+        "rating": 5,
+        "image": "/images/House_of_Chains.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Riddle-Master of Hed",
+        "rating": 2.5,
+        "image": "/images/Riddle-Master_of_Hed.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Memory Called Empire",
+        "rating": 4,
+        "image": "/images/Memory_Called_Empire.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Age of Death",
+        "rating": 3.5,
+        "image": "/images/Age_of_Death.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Darkest Road",
+        "rating": 3,
+        "image": "/images/The_Darkest_Road.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Wandering Fire",
+        "rating": 3,
+        "image": "/images/The_Wandering_Fire.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Lock In",
+        "rating": 3,
+        "image": "/images/Lock_In.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Shadow (The Scavenger Trilogy)",
+        "rating": 3,
+        "image": "/images/Shadow_(The_Scavenger_Trilogy).jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Old Man's War",
+        "rating": 3,
+        "image": "/images/Old_Man's_War.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Blood of Elves",
+        "rating": 3,
+        "image": "/images/Blood_of_Elves.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Curse of Chalion",
+        "rating": 5,
+        "image": "/images/The_Curse_of_Chalion.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Goblin Emperor",
+        "rating": 4,
+        "image": "/images/The_Goblin_Emperor.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "How To Absurd Scientific Advice for Common Real-World Problems",
+        "rating": 4,
+        "image": "/images/How_To_Absurd_Scientific_Advice_for_Common_Real-World_Problems.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Paladin of Souls",
+        "rating": 4,
+        "image": "/images/Paladin_of_Souls.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "A Song for Arbonne",
+        "rating": 4,
+        "image": "/images/A_Song_for_Arbonne.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The City We Became",
+        "rating": 2.5,
+        "image": "/images/The_City_We_Became.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Hallowed Hunt",
+        "rating": 3.5,
+        "image": "/images/The_Hallowed_Hunt.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Sailing to Sarantium",
+        "rating": 4,
+        "image": "/images/Sailing_to_Sarantium.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Age of Empyre",
+        "rating": 3.5,
+        "image": "/images/Age_of_Empyre.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Thief of Time",
+        "rating": 4,
+        "image": "/images/Thief_of_Time.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Lord of Emperors",
+        "rating": 5,
+        "image": "/images/Lord_of_Emperors.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Penric's Demon",
+        "rating": 4,
+        "image": "/images/Penric's_Demon.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Collapsing Empire",
+        "rating": 4,
+        "image": "/images/The_Collapsing_Empire.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Penric and the Shaman",
+        "rating": 3.5,
+        "image": "/images/Penric_and_the_Shaman.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Consuming Fire",
+        "rating": 4,
+        "image": "/images/The_Consuming_Fire.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Carpe Jugulum",
+        "rating": 4,
+        "image": "/images/Carpe_Jugulum.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "This is How you Lose the Time War",
+        "rating": 4.5,
+        "image": "/images/This_is_How_you_Lose_the_Time_War.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Exhalation",
+        "rating": 5,
+        "image": "/images/Exhalation.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Last Emperox",
+        "rating": 4,
+        "image": "/images/The_Last_Emperox.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Last Light of the Sun",
+        "rating": 3.5,
+        "image": "/images/The_Last_Light_of_the_Sun.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Fifth Elephant",
+        "rating": 4,
+        "image": "/images/The_Fifth_Elephant.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "River of Stars",
+        "rating": 4,
+        "image": "/images/River_of_Stars.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Black Prism",
+        "rating": 4,
+        "image": "/images/The_Black_Prism.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Middlegame",
+        "rating": 3.5,
+        "image": "/images/The_Middlegame.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Children of Earth and Sky",
+        "rating": 3.5,
+        "image": "/images/Children_of_Earth_and_Sky.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Gideon the Ninth",
+        "rating": 4,
+        "image": "/images/Gideon_the_Ninth.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Oathbringer",
+        "rating": 5,
+        "image": "/images/Oathbringer.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "How to Rule an Empire and Get Away With It",
+        "rating": 4,
+        "image": "/images/How_to_Rule_an_Empire_and_Get_Away_With_It.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Blinding Knife",
+        "rating": 3,
+        "image": "/images/The_Blinding_Knife.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Rhythm of War",
+        "rating": 5,
+        "image": "/images/Rhythm_of_War.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "A Brightness Long Ago",
+        "rating": 3.5,
+        "image": "/images/A_Brightness_Long_Ago.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "To be Taught, if Fortunate",
+        "rating": 3,
+        "image": "/images/To_be_Taught,_if_Fortunate.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Harrow the Ninth",
+        "rating": 3.5,
+        "image": "/images/Harrow_the_Ninth.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Amazing Maurice and His Educated Rodents",
+        "rating": 5,
+        "image": "/images/The_Amazing_Maurice_and_His_Educated_Rodents.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Sandman",
+        "rating": 4,
+        "image": "/images/The_Sandman.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "A Deadly Education",
+        "rating": 5,
+        "image": "/images/A_Deadly_Education.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Last Hero Discworld",
+        "rating": 3,
+        "image": "/images/The_Last_Hero_Discworld.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Android's Dream",
+        "rating": 2.5,
+        "image": "/images/The_Android's_Dream.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The End of Everything",
+        "rating": 3,
+        "image": "/images/The_End_of_Everything.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "Midnight Tides",
+        "rating": 5,
+        "image": "/images/Midnight_Tides.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Spirit Ring",
+        "rating": 3,
+        "image": "/images/The_Spirit_Ring.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "Sabriel",
+        "rating": 3,
+        "image": "/images/Sabriel.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Broken Eye",
+        "rating": 4,
+        "image": "/images/The_Broken_Eye.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "Uprooted",
+        "rating": 5,
+        "image": "/images/Uprooted.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "Piranesi",
+        "rating": 5,
+        "image": "/images/Piranesi.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "Sorcerer's Legacy",
+        "rating": 3,
+        "image": "/images/Sorcerer's_Legacy.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Library at Mount Char",
+        "rating": 5,
+        "image": "/images/The_Library_at_Mount_Char.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "Alaric the Goth",
+        "rating": 3,
+        "image": "/images/Alaric_the_Goth.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Night Circus",
+        "rating": 2.5,
+        "image": "/images/The_Night_Circus.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Angel and the Crows",
+        "rating": 3.5,
+        "image": "/images/The_Angel_and_the_Crows.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Moscow Rules",
+        "rating": 3.5,
+        "image": "/images/The_Moscow_Rules.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Invisible Life of Addie LaRue",
+        "rating": 2,
+        "image": "/images/The_Invisible_Life_of_Addie_LaRue.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "Sword of Destiny",
+        "rating": 2.5,
+        "image": "/images/Sword_of_Destiny.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "Peak Secrets from the New Science of Expertise",
+        "rating": 4,
+        "image": "/images/Peak_Secrets_from_the_New_Science_of_Expertise.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "A Desolation Called Peace",
+        "rating": 4,
+        "image": "/images/A_Desolation_Called_Peace.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Echo Wife",
+        "rating": 4,
+        "image": "/images/The_Echo_Wife.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "Witness for the Dead",
+        "rating": 3,
+        "image": "/images/Witness_for_the_Dead.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "Blacktongue Thief",
+        "rating": 3.5,
+        "image": "/images/Blacktongue_Thief.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Last Graduate",
+        "rating": 5,
+        "image": "/images/The_Last_Graduate.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Bonehunters",
+        "rating": 5,
+        "image": "/images/The_Bonehunters.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "All Systems Red",
+        "rating": 3,
+        "image": "/images/All_Systems_Red.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "Artificial Condition",
+        "rating": 3,
+        "image": "/images/Artificial_Condition.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Long Walk",
+        "rating": 3,
+        "image": "/images/The_Long_Walk.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Plot",
+        "rating": 3,
+        "image": "/images/The_Plot.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Jasmine Throne",
+        "rating": 3,
+        "image": "/images/The_Jasmine_Throne.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "Monstrous Regiment",
+        "rating": 4,
+        "image": "/images/Monstrous_Regiment.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Stranger Times",
+        "rating": 3,
+        "image": "/images/The_Stranger_Times.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "Empire of Pain",
+        "rating": 4,
+        "image": "/images/Empire_of_Pain.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "Hitchhiker's Guide to the Galaxy",
+        "rating": 4.5,
+        "image": "/images/Hitchhiker's_Guide_to_the_Galaxy.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "Into the Wild",
+        "rating": 4,
+        "image": "/images/Into_the_Wild.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "How to Make Friends and Influence People",
+        "rating": 4,
+        "image": "/images/How_to_Make_Friends_and_Influence_People.jpg"
+    },
+    {
+        "year": 2021,
+        "title": "The Restaurant at the End of the Universe",
+        "rating": 3,
+        "image": "/images/The_Restaurant_at_the_End_of_the_Universe.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Into Thin Air",
+        "rating": 4,
+        "image": "/images/Into_Thin_Air.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Elantris",
+        "rating": 4.5,
+        "image": "/images/Elantris.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Tower of Fear",
+        "rating": 2.5,
+        "image": "/images/Tower_of_Fear.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "World War Z",
+        "rating": 5,
+        "image": "/images/World_War_Z.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Bad Blood",
+        "rating": 5,
+        "image": "/images/Bad_Blood.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Reaper's Gale",
+        "rating": 5,
+        "image": "/images/Reaper's_Gale.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "A Practical Guide to Conquering the World",
+        "rating": 4,
+        "image": "/images/A_Practical_Guide_to_Conquering_the_World.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "A Shadow in Summer",
+        "rating": 4,
+        "image": "/images/A_Shadow_in_Summer.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Maybe You Should Talk to Someone",
+        "rating": 4.5,
+        "image": "/images/Maybe_You_Should_Talk_to_Someone.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Poppy War",
+        "rating": 3,
+        "image": "/images/The_Poppy_War.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "22 Murders of Madison May",
+        "rating": 2,
+        "image": "/images/22_Murders_of_Madison_May.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Anxious People",
+        "rating": 4,
+        "image": "/images/Anxious_People.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "A Man With One of Those Faces",
+        "rating": 2.5,
+        "image": "/images/A_Man_With_One_of_Those_Faces.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Less",
+        "rating": 1,
+        "image": "/images/Less.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "A Hat Full of sky",
+        "rating": 3.5,
+        "image": "/images/A_Hat_Full_of_sky.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Thursday Murder Club",
+        "rating": 4,
+        "image": "/images/The_Thursday_Murder_Club.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Kaiju Preservation Society",
+        "rating": 2.5,
+        "image": "/images/The_Kaiju_Preservation_Society.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Ophiuchi Hotline",
+        "rating": 3,
+        "image": "/images/The_Ophiuchi_Hotline.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Dragon Republic",
+        "rating": 4,
+        "image": "/images/The_Dragon_Republic.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Man Who Died Twice",
+        "rating": 2,
+        "image": "/images/The_Man_Who_Died_Twice.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Silent Patient",
+        "rating": 4,
+        "image": "/images/The_Silent_Patient.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "A Betrayal in Winter",
+        "rating": 5,
+        "image": "/images/A_Betrayal_in_Winter.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Gone Girl",
+        "rating": 5,
+        "image": "/images/Gone_Girl.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Day that Never Comes",
+        "rating": 2,
+        "image": "/images/The_Day_that_Never_Comes.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Dark Places",
+        "rating": 3,
+        "image": "/images/Dark_Places.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Maidens",
+        "rating": 2.5,
+        "image": "/images/The_Maidens.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "All the Seas of the World",
+        "rating": 3.5,
+        "image": "/images/All_the_Seas_of_the_World.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Justice of Kings",
+        "rating": 3.5,
+        "image": "/images/Justice_of_Kings.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Project Hail Mary",
+        "rating": 5,
+        "image": "/images/Project_Hail_Mary.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Toll the Hounds",
+        "rating": 5,
+        "image": "/images/Toll_the_Hounds.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Born a Crime",
+        "rating": 4.5,
+        "image": "/images/Born_a_Crime.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Going Postal",
+        "rating": 4.5,
+        "image": "/images/Going_Postal.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Dragon's Path",
+        "rating": 4,
+        "image": "/images/The_Dragon's_Path.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Grief of Stones",
+        "rating": 3.5,
+        "image": "/images/Grief_of_Stones.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The King's Blood",
+        "rating": 5,
+        "image": "/images/The_King's_Blood.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Girl with the Dragon Tattoo",
+        "rating": 3,
+        "image": "/images/The_Girl_with_the_Dragon_Tattoo.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "King's Dragon",
+        "rating": 2,
+        "image": "/images/King's_Dragon.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Bullet Train",
+        "rating": 3.5,
+        "image": "/images/Bullet_Train.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Tyrant's Law",
+        "rating": 5,
+        "image": "/images/The_Tyrant's_Law.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "My Sister the Serial Killer",
+        "rating": 3.5,
+        "image": "/images/My_Sister_the_Serial_Killer.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Kindred",
+        "rating": 4,
+        "image": "/images/Kindred.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Secret History",
+        "rating": 2.5,
+        "image": "/images/The_Secret_History.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Burning God",
+        "rating": 2.5,
+        "image": "/images/The_Burning_God.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Widow's House",
+        "rating": 5,
+        "image": "/images/The_Widow's_House.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Sharp Objects",
+        "rating": 3,
+        "image": "/images/Sharp_Objects.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Spider's War",
+        "rating": 5,
+        "image": "/images/The_Spider's_War.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "7.5 Deaths of Eveyln Hardcastle",
+        "rating": 3,
+        "image": "/images/7.5_Deaths_of_Eveyln_Hardcastle.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Village of Eight Graves",
+        "rating": 2.5,
+        "image": "/images/The_Village_of_Eight_Graves.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Thud!",
+        "rating": 3.5,
+        "image": "/images/Thud!.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "A Fatal Thing Happened on the Way to the Forum",
+        "rating": 3.5,
+        "image": "/images/A_Fatal_Thing_Happened_on_the_Way_to_the_Forum.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Martian",
+        "rating": 5,
+        "image": "/images/The_Martian.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Dracula",
+        "rating": 2,
+        "image": "/images/Dracula.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Killers of the Flower Moon",
+        "rating": 3,
+        "image": "/images/Killers_of_the_Flower_Moon.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "An Autumn War",
+        "rating": 5,
+        "image": "/images/An_Autumn_War.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Hyperion",
+        "rating": 5,
+        "image": "/images/Hyperion.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Picture of Dorian Gray",
+        "rating": 5,
+        "image": "/images/The_Picture_of_Dorian_Gray.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Crying in Hmart",
+        "rating": 1.5,
+        "image": "/images/Crying_in_Hmart.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Tender is the Flesh",
+        "rating": 3.5,
+        "image": "/images/Tender_is_the_Flesh.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Golden Enclaves",
+        "rating": 4,
+        "image": "/images/The_Golden_Enclaves.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "All the King's Men",
+        "rating": 5,
+        "image": "/images/All_the_King's_Men.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Three Assassins",
+        "rating": 2.5,
+        "image": "/images/Three_Assassins.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Rebecca",
+        "rating": 5,
+        "image": "/images/Rebecca.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Hollow Kingdom",
+        "rating": 3,
+        "image": "/images/Hollow_Kingdom.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Pride and Prejudice",
+        "rating": 5,
+        "image": "/images/Pride_and_Prejudice.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "I'm Glad My Mom Died",
+        "rating": 5,
+        "image": "/images/I'm_Glad_My_Mom_Died.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "This is Going to Hurt",
+        "rating": 3.5,
+        "image": "/images/This_is_Going_to_Hurt.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Sense and Sensibility",
+        "rating": 3,
+        "image": "/images/Sense_and_Sensibility.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Dust of Dreams",
+        "rating": 5,
+        "image": "/images/Dust_of_Dreams.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Persuasion",
+        "rating": 4,
+        "image": "/images/Persuasion.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Nona the Ninth",
+        "rating": 3.5,
+        "image": "/images/Nona_the_Ninth.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "No Country for Old Men",
+        "rating": 1.5,
+        "image": "/images/No_Country_for_Old_Men.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Price of Spring",
+        "rating": 5,
+        "image": "/images/The_Price_of_Spring.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Silver Queendom",
+        "rating": 3.5,
+        "image": "/images/Silver_Queendom.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "9 Princes of Amber",
+        "rating": 3,
+        "image": "/images/9_Princes_of_Amber.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Empire of Exiles",
+        "rating": 3.5,
+        "image": "/images/Empire_of_Exiles.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Master of Djinn",
+        "rating": 3,
+        "image": "/images/Master_of_Djinn.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Wizard of Earthsea",
+        "rating": 3,
+        "image": "/images/Wizard_of_Earthsea.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Black Water Sister",
+        "rating": 4.5,
+        "image": "/images/Black_Water_Sister.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Guns of Avalon",
+        "rating": 3,
+        "image": "/images/Guns_of_Avalon.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Devil in the White City",
+        "rating": 2.5,
+        "image": "/images/The_Devil_in_the_White_City.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Obsidian Tower",
+        "rating": 3.5,
+        "image": "/images/The_Obsidian_Tower.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Bone Shard Daughter",
+        "rating": 4,
+        "image": "/images/The_Bone_Shard_Daughter.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Pachinko",
+        "rating": 1,
+        "image": "/images/Pachinko.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Piranesi",
+        "rating": 5,
+        "image": "/images/Piranesi.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Master Assassins (Fire Sacraments)",
+        "rating": 5,
+        "image": "/images/Master_Assassins_(Fire_Sacraments).jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Midnight Riot",
+        "rating": 3,
+        "image": "/images/Midnight_Riot.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "The Traitor Baru Cormorant",
+        "rating": 4,
+        "image": "/images/The_Traitor_Baru_Cormorant.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "The Bone Shard Emperor",
+        "rating": 4.5,
+        "image": "/images/The_Bone_Shard_Emperor.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Emma",
+        "rating": 5,
+        "image": "/images/Emma.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Haroun and the Sea of Stories",
+        "rating": 2,
+        "image": "/images/Haroun_and_the_Sea_of_Stories.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "The Quicksilver Court",
+        "rating": 3,
+        "image": "/images/The_Quicksilver_Court.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Children of Time",
+        "rating": 4,
+        "image": "/images/Children_of_Time.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Sea of Tranquility",
+        "rating": 2,
+        "image": "/images/Sea_of_Tranquility.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "The Book of Goose",
+        "rating": 3.5,
+        "image": "/images/The_Book_of_Goose.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Tyranny of Faith",
+        "rating": 2.5,
+        "image": "/images/Tyranny_of_Faith.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "The Monster Baru Cormorant",
+        "rating": 4,
+        "image": "/images/The_Monster_Baru_Cormorant.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "The Power",
+        "rating": 4,
+        "image": "/images/The_Power.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Northanger Abbey",
+        "rating": 3.5,
+        "image": "/images/Northanger_Abbey.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Things Fall Apart",
+        "rating": 4,
+        "image": "/images/Things_Fall_Apart.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Jhereg",
+        "rating": 3,
+        "image": "/images/Jhereg.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "How the Other Half Eats",
+        "rating": 4,
+        "image": "/images/How_the_Other_Half_Eats.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Children of Ruin",
+        "rating": 3.5,
+        "image": "/images/Children_of_Ruin.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Trust",
+        "rating": 2,
+        "image": "/images/Trust.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Every Heart a Doorway",
+        "rating": 2,
+        "image": "/images/Every_Heart_a_Doorway.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "The Bone Shard War",
+        "rating": 4.5,
+        "image": "/images/The_Bone_Shard_War.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "The Candy House",
+        "rating": 5,
+        "image": "/images/The_Candy_House.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Priest of Bones",
+        "rating": 4,
+        "image": "/images/Priest_of_Bones.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "The Seven Husbands of Evelyn Hugo",
+        "rating": 3,
+        "image": "/images/The_Seven_Husbands_of_Evelyn_Hugo.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Visit from the Goon Squad",
+        "rating": 5,
+        "image": "/images/Visit_from_the_Goon_Squad.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Priest of Lies",
+        "rating": 4,
+        "image": "/images/Priest_of_Lies.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "The Tyrant Baru Cormorant",
+        "rating": 4,
+        "image": "/images/The_Tyrant_Baru_Cormorant.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Klara and the Sun",
+        "rating": 2,
+        "image": "/images/Klara_and_the_Sun.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Ivory Tomb",
+        "rating": 3.5,
+        "image": "/images/Ivory_Tomb.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "Mansfield Park",
+        "rating": 4,
+        "image": "/images/Mansfield_Park.jpg"
+    },
+    {
+        "year": 2023,
+        "title": "My Cousin Rachel",
+        "rating": 4,
+        "image": "/images/My_Cousin_Rachel.jpg"
+    }
 ]

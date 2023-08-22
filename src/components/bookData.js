@@ -1,7 +1,7 @@
 import axios from 'axios';
-import books from '../data/booksList.json';
+import books from '../data/testList.json';
 
-const fetchGBData = async (title) => {
+const fetchBookData = async (title) => {
     const API_KEY = process.env.REACT_APP_GOOGLE_BOOKS_API_KEY;
 
     const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
@@ -9,17 +9,20 @@ const fetchGBData = async (title) => {
     while (true) {
         try {
             const response = await axios.get(
-                `https://www.googleapis.com/books/v1/volumes/?q=${title}&key=${API_KEY}`
+                `https://www.googleapis.com/books/v1/volumes/?q=${title}`
             );
 
-            const data = response.data.items[0];
+            if (response.data.items && response.data.items.length > 0) {
+                const data = response.data.items[0].volumeInfo;
+                return {
+                    author: data.authors,
+                    pages: data.pageCount,
+                    summary: data.description
+                };  
+            } else {
+                throw new Error("No books found for the given title.");
+            }
 
-            return {
-                author: data.authors[0],
-                pages: data.pageCount,
-                image: data.imageLinks.thumbnail.replace('&zoom=5&edge=curl&source=gbs_api', ''),
-                summary: data.description
-            };  
         } catch (error) {
             if (error.response && error.response.status === 429) {
                 await delay(1000);
@@ -28,16 +31,7 @@ const fetchGBData = async (title) => {
             }
         }
     }
-};
 
-const fetchBookData = async () => {
-    const booksList = [];
-    for (let book of books) {
-        const nextBook = await fetchGBData(book.title);
-        console.log(book.image);
-        booksList.push({ ...book, ...nextBook });
-    }
-    return booksList;
 };
 
 export default fetchBookData;
