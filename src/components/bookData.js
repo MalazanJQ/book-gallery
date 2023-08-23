@@ -9,7 +9,7 @@ const fetchBookData = async (title) => {
     while (true) {
         try {
             const response = await axios.get(
-                `https://www.googleapis.com/books/v1/volumes/?q=${title}`
+                `https://www.googleapis.com/books/v1/volumes/?q=${title}&key=${API_KEY}`
             );
 
             if (response.data.items && response.data.items.length > 0) {

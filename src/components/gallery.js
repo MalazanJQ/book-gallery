@@ -43,22 +43,25 @@ export default function Gallery() {
             ...photo,
             width: 575,
             height: 850,
-            title: `${books[index].title} by ${data.author}`,
+            title: `${books[index].title}${data.author ? ` by ${data.author}` : ''}`,
             summary: `Page count: ${data.pages}\nPersonal rating: ${books[index].rating}\nSummary: ${data.summary}`
         };
     });
+
+    const getData = async (index) => {
+        if (!bookData[index]){
+            const data = await fetchBookData(books[index].title);
+            setBookData(prev => ({ ...prev, [index]: data }));
+        }
+    };
 
     return (
         <>
             <PhotoAlbum
                 layout="masonry"
                 photos={photos}
-                onClick={async ({ index }) => {
-                        if (!bookData[index]){
-                            const data = await fetchBookData(books[index].title);
-                            console.log(data);
-                            setBookData(prev => ({ ...prev, [index]: data }));
-                        }
+                onClick={({index}) => {
+                    getData(index);
                     setIndex(index);
                 }}
             />
@@ -69,7 +72,10 @@ export default function Gallery() {
                 open={index >= 0}
                 index={index}
                 close={() => setIndex(-1)}
-
+                on={{view: ({index}) => {
+                    getData(index);
+                    setIndex(index);
+                }}}
             />
         </>
     );
