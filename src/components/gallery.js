@@ -2,13 +2,11 @@ import PhotoAlbum from "react-photo-album";
 import Lightbox from "yet-another-react-lightbox";
 import Captions from "yet-another-react-lightbox/plugins/captions";
 import "yet-another-react-lightbox/plugins/captions.css";
-
 import "yet-another-react-lightbox/styles.css";
+
 import { useState, useEffect } from "react";
 
 import fetchBookData from './bookData.js'
-
-import books from '../data/booksList.json'
 
 const RATING_TO_DIMENSIONS = {
     5: [200, 300],
@@ -23,10 +21,18 @@ const RATING_TO_DIMENSIONS = {
 };
 
 
-export default function Gallery() {
+export default function Gallery({ year, count }) {
 
+    const [books, setBooks] = useState([]);
     const [index, setIndex] = useState(-1);
     const [bookData, setBookData] = useState({});
+
+    useEffect(() => {
+        import(`../data/${year}.json`).then(data => {
+            setBooks(data.default)
+            count(year, data.default.length);
+        });
+    }, [year]);
 
     const photos = books.map(book => {
         const dimensions = RATING_TO_DIMENSIONS[book.rating]
@@ -44,16 +50,22 @@ export default function Gallery() {
             width: 575,
             height: 850,
             title: `${books[index].title}${data.author ? ` by ${data.author}` : ''}`,
-            summary: `Page count: ${data.pages}\nPersonal rating: ${books[index].rating}\nSummary: ${data.summary}`
+            description: `Page Count: ${data.pages ? data.pages : ''}\n\nPersonal Rating: ${books[index].rating}\n\nSummary: ${data.summary ? data.summary : ''}` 
         };
     });
 
+    //fetch data from google books API once cover image is clicked
     const getData = async (index) => {
         if (!bookData[index]){
-            const data = await fetchBookData(books[index].title);
+            let search = books[index].query? books[index].query : books[index].title;
+            const data = await fetchBookData(search);
             setBookData(prev => ({ ...prev, [index]: data }));
         }
     };
+
+    //set captions settings
+    const [descriptionMaxLines, setDescriptionMaxLines] = useState(50);
+    const [showToggle, setShowToggle] = useState(true);
 
     return (
         <>
@@ -66,8 +78,9 @@ export default function Gallery() {
                 }}
             />
 
-            <Lightbox
+            <Lightbox 
                 plugins={[Captions]}
+                captions={{ showToggle, descriptionMaxLines }}
                 slides={lightboxPhotos}
                 open={index >= 0}
                 index={index}

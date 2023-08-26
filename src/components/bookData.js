@@ -8,9 +8,7 @@ const fetchBookData = async (title) => {
 
     while (true) {
         try {
-            const response = await axios.get(
-                `https://www.googleapis.com/books/v1/volumes/?q=${title}&key=${API_KEY}`
-            );
+            const response = await axios.get(`https://www.googleapis.com/books/v1/volumes/?q=${title}&key=${API_KEY}`);
 
             if (response.data.items && response.data.items.length > 0) {
                 const data = response.data.items[0].volumeInfo;
@@ -20,7 +18,7 @@ const fetchBookData = async (title) => {
                     summary: data.description
                 };  
             } else {
-                throw new Error("No books found for the given title.");
+                throw new Error(`${title} not found.`);
             }
 
         } catch (error) {

@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.yarl__slide_captions_container{
+  max-height: 150px !important;
+  overflow-y: auto !important;
+}

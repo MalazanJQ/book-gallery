@@ -1,0 +1,296 @@
+[
+    {
+        "year": 2020,
+        "title": "The Summer Tree",
+        "rating": 3,
+        "image": "/images/The_Summer_Tree.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Jingo",
+        "rating": 4,
+        "image": "/images/Jingo.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Sixteen Ways to Defend a Walled City",
+        "rating": 4.5,
+        "image": "/images/Sixteen_Ways_to_Defend_a_Walled_City.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "House of Chains",
+        "rating": 5,
+        "image": "/images/House_of_Chains.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Riddle-Master of Hed",
+        "rating": 2.5,
+        "image": "/images/Riddle-Master_of_Hed.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "A Memory Called Empire",
+        "rating": 4,
+        "image": "/images/A_Memory_Called_Empire.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Age of Death",
+        "rating": 3.5,
+        "image": "/images/Age_of_Death.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Darkest Road",
+        "rating": 3,
+        "image": "/images/The_Darkest_Road.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Wandering Fire",
+        "rating": 3,
+        "image": "/images/The_Wandering_Fire.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Lock In",
+        "rating": 3,
+        "image": "/images/Lock_In.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Shadow (The Scavenger Trilogy)",
+        "rating": 3,
+        "image": "/images/Shadow_(The_Scavenger_Trilogy).jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Old Man's War",
+        "rating": 3,
+        "image": "/images/Old_Man's_War.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Blood of Elves",
+        "rating": 3,
+        "image": "/images/Blood_of_Elves.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Curse of Chalion",
+        "rating": 5,
+        "image": "/images/The_Curse_of_Chalion.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Goblin Emperor",
+        "rating": 4,
+        "image": "/images/The_Goblin_Emperor.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "How To Absurd Scientific Advice for Common Real-World Problems",
+        "rating": 4,
+        "image": "/images/How_To_Absurd_Scientific_Advice_for_Common_Real-World_Problems.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Paladin of Souls",
+        "rating": 4,
+        "image": "/images/Paladin_of_Souls.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "A Song for Arbonne",
+        "rating": 4,
+        "image": "/images/A_Song_for_Arbonne.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The City We Became",
+        "rating": 2.5,
+        "image": "/images/The_City_We_Became.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Hallowed Hunt",
+        "rating": 3.5,
+        "image": "/images/The_Hallowed_Hunt.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Sailing to Sarantium",
+        "rating": 4,
+        "image": "/images/Sailing_to_Sarantium.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Age of Empyre",
+        "rating": 3.5,
+        "image": "/images/Age_of_Empyre.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Thief of Time",
+        "rating": 4,
+        "image": "/images/Thief_of_Time.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Lord of Emperors",
+        "rating": 5,
+        "image": "/images/Lord_of_Emperors.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Penric's Demon",
+        "rating": 4,
+        "image": "/images/Penric's_Demon.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Collapsing Empire",
+        "rating": 4,
+        "image": "/images/The_Collapsing_Empire.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Penric and the Shaman",
+        "rating": 3.5,
+        "image": "/images/Penric_and_the_Shaman.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Consuming Fire",
+        "rating": 4,
+        "image": "/images/The_Consuming_Fire.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Carpe Jugulum",
+        "rating": 4,
+        "image": "/images/Carpe_Jugulum.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "This is How you Lose the Time War",
+        "rating": 4.5,
+        "image": "/images/This_is_How_you_Lose_the_Time_War.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Exhalation",
+        "rating": 5,
+        "image": "/images/Exhalation.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Last Emperox",
+        "rating": 4,
+        "image": "/images/The_Last_Emperox.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Last Light of the Sun",
+        "rating": 3.5,
+        "image": "/images/The_Last_Light_of_the_Sun.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Fifth Elephant",
+        "rating": 4,
+        "image": "/images/The_Fifth_Elephant.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "River of Stars",
+        "rating": 4,
+        "image": "/images/River_of_Stars.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Black Prism",
+        "rating": 4,
+        "image": "/images/The_Black_Prism.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Middle Game",
+        "rating": 3.5,
+        "image": "/images/Middle_Game.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Children of Earth and Sky",
+        "rating": 3.5,
+        "image": "/images/Children_of_Earth_and_Sky.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Gideon the Ninth",
+        "rating": 4,
+        "image": "/images/Gideon_the_Ninth.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Oathbringer",
+        "rating": 5,
+        "image": "/images/Oathbringer.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "How to Rule an Empire and Get Away With It",
+        "rating": 4,
+        "image": "/images/How_to_Rule_an_Empire_and_Get_Away_With_It.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Blinding Knife",
+        "rating": 3,
+        "image": "/images/The_Blinding_Knife.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Rhythm of War",
+        "rating": 5,
+        "image": "/images/Rhythm_of_War.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "A Brightness Long Ago",
+        "rating": 3.5,
+        "image": "/images/A_Brightness_Long_Ago.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "To be Taught, if Fortunate",
+        "rating": 3,
+        "image": "/images/To_be_Taught,_if_Fortunate.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "Harrow the Ninth",
+        "rating": 3.5,
+        "image": "/images/Harrow_the_Ninth.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Amazing Maurice and His Educated Rodents",
+        "rating": 5,
+        "image": "/images/The_Amazing_Maurice_and_His_Educated_Rodents.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "The Sandman Act I",
+        "rating": 4,
+        "image": "/images/The_Sandman_Act_I.jpg"
+    },
+    {
+        "year": 2020,
+        "title": "A Deadly Education",
+        "rating": 5,
+        "image": "/images/A_Deadly_Education.jpg"
+    }
+]

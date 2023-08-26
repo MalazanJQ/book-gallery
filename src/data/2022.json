@@ -1,0 +1,502 @@
+[
+    {
+        "year": 2022,
+        "title": "Into Thin Air",
+        "rating": 4,
+        "image": "/images/Into_Thin_Air.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Elantris",
+        "rating": 4.5,
+        "image": "/images/Elantris.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Tower of Fear",
+        "rating": 2.5,
+        "image": "/images/Tower_of_Fear.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "World War Z",
+        "rating": 5,
+        "image": "/images/World_War_Z.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Bad Blood",
+        "rating": 5,
+        "image": "/images/Bad_Blood.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Reaper's Gale",
+        "rating": 5,
+        "image": "/images/Reaper's_Gale.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "A Practical Guide to Conquering the World",
+        "rating": 4,
+        "image": "/images/A_Practical_Guide_to_Conquering_the_World.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "A Shadow in Summer",
+        "rating": 4,
+        "image": "/images/A_Shadow_in_Summer.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Maybe You Should Talk to Someone",
+        "rating": 4.5,
+        "image": "/images/Maybe_You_Should_Talk_to_Someone.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Poppy War",
+        "rating": 3,
+        "image": "/images/The_Poppy_War.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "22 Murders of Madison May",
+        "rating": 2,
+        "image": "/images/22_Murders_of_Madison_May.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Anxious People",
+        "rating": 4,
+        "image": "/images/Anxious_People.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "A Man With One of Those Faces",
+        "rating": 2.5,
+        "image": "/images/A_Man_With_One_of_Those_Faces.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Less",
+        "query": "cdhzDQAAQBAJ",
+        "rating": 1,
+        "image": "/images/Less.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "A Hat Full of sky",
+        "rating": 3.5,
+        "image": "/images/A_Hat_Full_of_sky.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Thursday Murder Club",
+        "rating": 4,
+        "image": "/images/The_Thursday_Murder_Club.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Kaiju Preservation Society",
+        "rating": 2.5,
+        "image": "/images/The_Kaiju_Preservation_Society.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Ophiuchi Hotline",
+        "rating": 3,
+        "image": "/images/The_Ophiuchi_Hotline.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Dragon Republic",
+        "rating": 4,
+        "image": "/images/The_Dragon_Republic.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Man Who Died Twice",
+        "rating": 2,
+        "image": "/images/The_Man_Who_Died_Twice.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Silent Patient",
+        "rating": 4,
+        "image": "/images/The_Silent_Patient.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "A Betrayal in Winter",
+        "rating": 5,
+        "image": "/images/A_Betrayal_in_Winter.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Gone Girl",
+        "rating": 5,
+        "image": "/images/Gone_Girl.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Day that Never Comes",
+        "rating": 2,
+        "image": "/images/The_Day_that_Never_Comes.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Dark Places",
+        "rating": 3,
+        "image": "/images/Dark_Places.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Maidens",
+        "rating": 2.5,
+        "image": "/images/The_Maidens.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "All the Seas of the World",
+        "rating": 3.5,
+        "image": "/images/All_the_Seas_of_the_World.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Justice of Kings",
+        "rating": 3.5,
+        "image": "/images/Justice_of_Kings.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Project Hail Mary",
+        "rating": 5,
+        "image": "/images/Project_Hail_Mary.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Toll the Hounds",
+        "rating": 5,
+        "image": "/images/Toll_the_Hounds.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Born a Crime",
+        "rating": 4.5,
+        "image": "/images/Born_a_Crime.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Going Postal",
+        "rating": 4.5,
+        "image": "/images/Going_Postal.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Dragon's Path",
+        "rating": 4,
+        "image": "/images/The_Dragon's_Path.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Grief of Stones",
+        "rating": 3.5,
+        "image": "/images/Grief_of_Stones.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The King's Blood",
+        "rating": 5,
+        "image": "/images/The_King's_Blood.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Girl with the Dragon Tattoo",
+        "rating": 3,
+        "image": "/images/The_Girl_with_the_Dragon_Tattoo.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "King's Dragon",
+        "rating": 2,
+        "image": "/images/King's_Dragon.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Bullet Train",
+        "rating": 3.5,
+        "image": "/images/Bullet_Train.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Tyrant's Law",
+        "rating": 5,
+        "image": "/images/The_Tyrant's_Law.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "My Sister the Serial Killer",
+        "rating": 3.5,
+        "image": "/images/My_Sister_the_Serial_Killer.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Kindred",
+        "rating": 4,
+        "image": "/images/Kindred.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Secret History",
+        "rating": 2.5,
+        "image": "/images/The_Secret_History.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Burning God",
+        "rating": 2.5,
+        "image": "/images/The_Burning_God.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Widow's House",
+        "rating": 5,
+        "image": "/images/The_Widow's_House.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Sharp Objects",
+        "rating": 3,
+        "image": "/images/Sharp_Objects.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Spider's War",
+        "rating": 5,
+        "image": "/images/The_Spider's_War.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "7.5 Deaths of Eveyln Hardcastle",
+        "rating": 3,
+        "image": "/images/7.5_Deaths_of_Eveyln_Hardcastle.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Village of Eight Graves",
+        "rating": 2.5,
+        "image": "/images/The_Village_of_Eight_Graves.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Thud!",
+        "rating": 3.5,
+        "image": "/images/Thud!.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "A Fatal Thing Happened on the Way to the Forum",
+        "rating": 3.5,
+        "image": "/images/A_Fatal_Thing_Happened_on_the_Way_to_the_Forum.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Martian",
+        "rating": 5,
+        "image": "/images/The_Martian.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Dracula",
+        "rating": 2,
+        "image": "/images/Dracula.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Killers of the Flower Moon",
+        "rating": 3,
+        "image": "/images/Killers_of_the_Flower_Moon.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "An Autumn War",
+        "rating": 5,
+        "image": "/images/An_Autumn_War.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Hyperion",
+        "rating": 5,
+        "image": "/images/Hyperion.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Picture of Dorian Gray",
+        "rating": 5,
+        "image": "/images/The_Picture_of_Dorian_Gray.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Crying in Hmart",
+        "rating": 1.5,
+        "image": "/images/Crying_in_Hmart.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Tender is the Flesh",
+        "rating": 3.5,
+        "image": "/images/Tender_is_the_Flesh.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Golden Enclaves",
+        "rating": 4,
+        "image": "/images/The_Golden_Enclaves.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "All the King's Men",
+        "rating": 5,
+        "image": "/images/All_the_King's_Men.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Three Assassins",
+        "rating": 2.5,
+        "image": "/images/Three_Assassins.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Rebecca",
+        "query": "WL-5kEKlBpcC",
+        "rating": 5,
+        "image": "/images/Rebecca.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Hollow Kingdom",
+        "rating": 3,
+        "image": "/images/Hollow_Kingdom.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Pride and Prejudice",
+        "rating": 5,
+        "image": "/images/Pride_and_Prejudice.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "I'm Glad My Mom Died",
+        "rating": 5,
+        "image": "/images/I'm_Glad_My_Mom_Died.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "This is Going to Hurt",
+        "rating": 3.5,
+        "image": "/images/This_is_Going_to_Hurt.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Sense and Sensibility",
+        "rating": 3,
+        "image": "/images/Sense_and_Sensibility.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Dust of Dreams",
+        "rating": 5,
+        "image": "/images/Dust_of_Dreams.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Persuasion",
+        "rating": 4,
+        "image": "/images/Persuasion.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Nona the Ninth",
+        "rating": 3.5,
+        "image": "/images/Nona_the_Ninth.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "No Country for Old Men",
+        "rating": 1.5,
+        "image": "/images/No_Country_for_Old_Men.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Price of Spring",
+        "rating": 5,
+        "image": "/images/The_Price_of_Spring.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Silver Queendom",
+        "rating": 3.5,
+        "image": "/images/Silver_Queendom.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "9 Princes of Amber",
+        "rating": 3,
+        "image": "/images/9_Princes_of_Amber.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Empire of Exiles",
+        "rating": 3.5,
+        "image": "/images/Empire_of_Exiles.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Master of Djinn",
+        "rating": 3,
+        "image": "/images/Master_of_Djinn.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Wizard of Earthsea",
+        "rating": 3,
+        "image": "/images/Wizard_of_Earthsea.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Black Water Sister",
+        "rating": 4.5,
+        "image": "/images/Black_Water_Sister.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Guns of Avalon",
+        "rating": 3,
+        "image": "/images/Guns_of_Avalon.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Devil in the White City",
+        "rating": 2.5,
+        "image": "/images/The_Devil_in_the_White_City.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Obsidian Tower",
+        "rating": 3.5,
+        "image": "/images/The_Obsidian_Tower.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "The Bone Shard Daughter",
+        "rating": 4,
+        "image": "/images/The_Bone_Shard_Daughter.jpg"
+    },
+    {
+        "year": 2022,
+        "title": "Pachinko",
+        "rating": 1,
+        "image": "/images/Pachinko.jpg"
+    }
+]

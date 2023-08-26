@@ -25,7 +25,7 @@
     },
     {
         "year": 2017,
-        "title": "Lord of Chaos",
+        "title": "Lord of Chaos (WoT)",
         "rating": 4,
         "image": "/images/Lord_of_Chaos.jpg"
     },
@@ -115,9 +115,9 @@
     },
     {
         "year": 2018,
-        "title": "The Dark Tower The Gunslinger",
+        "title": "The Gunslinger",
         "rating": 3.5,
-        "image": "/images/The_Dark_Tower_The_Gunslinger.jpg"
+        "image": "/images/The_Gunslinger.jpg"
     },
     {
         "year": 2018,
@@ -151,15 +151,15 @@
     },
     {
         "year": 2018,
-        "title": "The Dark Tower Drawing of the Three",
+        "title": "The Drawing of the Three",
         "rating": 5,
-        "image": "/images/The_Dark_Tower_Drawing_of_the_Three.jpg"
+        "image": "/images/The_Drawing_of_the_Three.jpg"
     },
     {
         "year": 2018,
-        "title": "The Dark Tower Wastelands",
+        "title": "The Waste Lands",
         "rating": 4,
-        "image": "/images/The_Dark_Tower_Wastelands.jpg"
+        "image": "/images/The_Waste_Lands.jpg"
     },
     {
         "year": 2018,
@@ -241,9 +241,9 @@
     },
     {
         "year": 2019,
-        "title": "Feet of Clay",
+        "title": "Discworld Feet of Clay",
         "rating": 4,
-        "image": "/images/Feet_of_Clay.jpg"
+        "image": "/images/Discworld_Feet_of_Clay.jpg"
     },
     {
         "year": 2019,
@@ -361,9 +361,9 @@
     },
     {
         "year": 2020,
-        "title": "Memory Called Empire",
+        "title": "A Memory Called Empire",
         "rating": 4,
-        "image": "/images/Memory_Called_Empire.jpg"
+        "image": "/images/A_Memory_Called_Empire.jpg"
     },
     {
         "year": 2020,
@@ -547,9 +547,9 @@
     },
     {
         "year": 2020,
-        "title": "The Middlegame",
+        "title": "Middle Game",
         "rating": 3.5,
-        "image": "/images/The_Middlegame.jpg"
+        "image": "/images/Middle_Game.jpg"
     },
     {
         "year": 2020,
@@ -613,9 +613,9 @@
     },
     {
         "year": 2020,
-        "title": "The Sandman",
+        "title": "The Sandman Act I",
         "rating": 4,
-        "image": "/images/The_Sandman.jpg"
+        "image": "/images/The_Sandman_Act_I.jpg"
     },
     {
         "year": 2020,
@@ -920,6 +920,7 @@
     {
         "year": 2022,
         "title": "Less",
+        "query": "cdhzDQAAQBAJ",
         "rating": 1,
         "image": "/images/Less.jpg"
     },
@@ -1208,6 +1209,7 @@
     {
         "year": 2022,
         "title": "Rebecca",
+        "query": "WL-5kEKlBpcC",
         "rating": 5,
         "image": "/images/Rebecca.jpg"
     },
@@ -1339,9 +1341,9 @@
     },
     {
         "year": 2023,
-        "title": "Piranesi",
+        "title": "Piranesi (Reread)",
         "rating": 5,
-        "image": "/images/Piranesi.jpg"
+        "image": "/images/Piranesi_(Reread).jpg"
     },
     {
         "year": 2023,
@@ -1424,6 +1426,7 @@
     {
         "year": 2023,
         "title": "Northanger Abbey",
+        "query": "uyO1DgAAQBAJ",
         "rating": 3.5,
         "image": "/images/Northanger_Abbey.jpg"
     },
@@ -1502,6 +1505,7 @@
     {
         "year": 2023,
         "title": "The Tyrant Baru Cormorant",
+        "query": "dQerDwAAQBAJ",
         "rating": 4,
         "image": "/images/The_Tyrant_Baru_Cormorant.jpg"
     },

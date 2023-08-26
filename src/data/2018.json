@@ -1,0 +1,98 @@
+[
+    {
+        "year": 2018,
+        "title": "Oathbringer",
+        "rating": 5,
+        "image": "/images/Oathbringer.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Eric",
+        "rating": 4,
+        "image": "/images/Eric.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Moving Pictures",
+        "rating": 3.5,
+        "image": "/images/Moving_Pictures.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "The Gunslinger",
+        "rating": 3.5,
+        "image": "/images/The_Gunslinger.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Witches Abroad",
+        "rating": 4.5,
+        "image": "/images/Witches_Abroad.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "A Memory of Light",
+        "rating": 5,
+        "image": "/images/A_Memory_of_Light.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Jade City",
+        "rating": 3,
+        "image": "/images/Jade_City.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Small Gods",
+        "rating": 4.5,
+        "image": "/images/Small_Gods.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Red Sister",
+        "rating": 3,
+        "image": "/images/Red_Sister.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "The Drawing of the Three",
+        "rating": 5,
+        "image": "/images/The_Drawing_of_the_Three.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "The Waste Lands",
+        "rating": 4,
+        "image": "/images/The_Waste_Lands.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Dune",
+        "rating": 1,
+        "image": "/images/Dune.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Reaper Man",
+        "rating": 4,
+        "image": "/images/Reaper_Man.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Lords and Ladies",
+        "rating": 4,
+        "image": "/images/Lords_and_Ladies.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Age of Myth",
+        "rating": 4,
+        "image": "/images/Age_of_Myth.jpg"
+    },
+    {
+        "year": 2018,
+        "title": "Age of Swords",
+        "rating": 4,
+        "image": "/images/Age_of_Swords.jpg"
+    }
+]
