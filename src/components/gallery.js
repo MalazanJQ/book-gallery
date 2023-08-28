@@ -1,17 +1,15 @@
 import PhotoAlbum from "react-photo-album";
 import Lightbox from "yet-another-react-lightbox";
 import Captions from "yet-another-react-lightbox/plugins/captions";
+import Counter from "yet-another-react-lightbox/plugins/counter";
 import "yet-another-react-lightbox/plugins/captions.css";
 import "yet-another-react-lightbox/styles.css";
-
-import { BsStarFill, BsStarHalf, BsStar } from 'react-icons/bs';
 
 import DOMPurify from "dompurify";
 
 import { useState, useEffect } from "react";
 
 import FetchBookData from './bookData.js'
-import Ratings from './ratings.js'
 
 const RATING_TO_DIMENSIONS = {
     5: [200, 300],
@@ -24,7 +22,6 @@ const RATING_TO_DIMENSIONS = {
     1.5: [100, 160],
     1: [200, 300]
 };
-
 
 export default function Gallery({ year, count }) {
 
@@ -97,7 +94,7 @@ export default function Gallery({ year, count }) {
             />
 
             <Lightbox 
-                plugins={[Captions]}
+                plugins={[Captions, Counter]}
                 captions={{ showToggle, descriptionMaxLines }}
                 slides={lightboxPhotos}
                 open={index >= 0}

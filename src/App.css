@@ -2,11 +2,6 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -46,11 +41,11 @@
 }
 
 .yarl__slide_description_container {
-  max-height: 535px !important; 
+  max-height: 80% !important; 
   overflow-y: auto !important;
   bottom: auto;
   left: 52% !important;
-  top: 62px;
+  top: 10%;
   width:38%
 }
 
