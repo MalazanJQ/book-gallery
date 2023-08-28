@@ -4,9 +4,14 @@ import Captions from "yet-another-react-lightbox/plugins/captions";
 import "yet-another-react-lightbox/plugins/captions.css";
 import "yet-another-react-lightbox/styles.css";
 
+import { BsStarFill, BsStarHalf, BsStar } from 'react-icons/bs';
+
+import DOMPurify from "dompurify";
+
 import { useState, useEffect } from "react";
 
-import fetchBookData from './bookData.js'
+import FetchBookData from './bookData.js'
+import Ratings from './ratings.js'
 
 const RATING_TO_DIMENSIONS = {
     5: [200, 300],
@@ -45,20 +50,33 @@ export default function Gallery({ year, count }) {
 
     const lightboxPhotos = photos.map((photo, index) => {
         const data = bookData[index] || {}
+        const summary = DOMPurify.sanitize(data.summary ? data.summary : '').replace(/<\/?b>/g, (match) => match === '<b>' ? '<i>' : '</i>');
+        const stars = `/images/${books[index].rating}_stars.svg`;
         return {
             ...photo,
             width: 575,
             height: 850,
             title: `${books[index].title}${data.author ? ` by ${data.author}` : ''}`,
-            description: `Page Count: ${data.pages ? data.pages : ''}\n\nPersonal Rating: ${books[index].rating}\n\nSummary: ${data.summary ? data.summary : ''}` 
+            description: (
+                <div
+                dangerouslySetInnerHTML={{
+                    __html: `
+                    Page Count: ${data.pages ? data.pages : ''}
+                    <br/><br/>
+                    Personal Rating: <img style="filter: grayscale(100%) contrast(800%) brightness(80%)" src=${stars}  width="100" height="20" alt="${books[index.rating]}">
+                    <br/><br/>
+                    Summary:
+                    <br/><br/> ${summary}`
+                }}
+                />
+            )
         };
     });
 
     //fetch data from google books API once cover image is clicked
     const getData = async (index) => {
         if (!bookData[index]){
-            let search = books[index].query? books[index].query : books[index].title;
-            const data = await fetchBookData(search);
+            const data = await FetchBookData(books[index].id);
             setBookData(prev => ({ ...prev, [index]: data }));
         }
     };

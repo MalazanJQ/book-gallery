@@ -3,294 +3,343 @@
         "year": 2020,
         "title": "The Summer Tree",
         "rating": 3,
-        "image": "/images/The_Summer_Tree.jpg"
+        "image": "/images/The_Summer_Tree.jpg",
+        "id": "H4mB8zQBxjQC"
     },
     {
         "year": 2020,
         "title": "Jingo",
         "rating": 4,
-        "image": "/images/Jingo.jpg"
+        "image": "/images/Jingo.jpg",
+        "id": "x3ODzwEACAAJ"
     },
     {
         "year": 2020,
         "title": "Sixteen Ways to Defend a Walled City",
         "rating": 4.5,
-        "image": "/images/Sixteen_Ways_to_Defend_a_Walled_City.jpg"
+        "image": "/images/Sixteen_Ways_to_Defend_a_Walled_City.jpg",
+        "id": "iApGDwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "House of Chains",
         "rating": 5,
-        "image": "/images/House_of_Chains.jpg"
+        "image": "/images/House_of_Chains.jpg",
+        "id": "_aT-qvVD4K8C"
     },
     {
         "year": 2020,
         "title": "Riddle-Master of Hed",
         "rating": 2.5,
-        "image": "/images/Riddle-Master_of_Hed.jpg"
+        "image": "/images/Riddle-Master_of_Hed.jpg",
+        "id": "eKeSAwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "A Memory Called Empire",
         "rating": 4,
-        "image": "/images/A_Memory_Called_Empire.jpg"
+        "image": "/images/A_Memory_Called_Empire.jpg",
+        "id": "O-5WDwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "Age of Death",
         "rating": 3.5,
-        "image": "/images/Age_of_Death.jpg"
+        "image": "/images/Age_of_Death.jpg",
+        "id": "HzCKDQAAQBAJ"
     },
     {
         "year": 2020,
         "title": "The Darkest Road",
         "rating": 3,
-        "image": "/images/The_Darkest_Road.jpg"
+        "image": "/images/The_Darkest_Road.jpg",
+        "id": "2KVPEAAAQBAJ"
     },
     {
         "year": 2020,
         "title": "The Wandering Fire",
         "rating": 3,
-        "image": "/images/The_Wandering_Fire.jpg"
+        "image": "/images/The_Wandering_Fire.jpg",
+        "id": "xYBnzwEACAAJ"
     },
     {
         "year": 2020,
         "title": "Lock In",
         "rating": 3,
-        "image": "/images/Lock_In.jpg"
+        "image": "/images/Lock_In.jpg",
+        "id": "Tdl_DwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "Shadow (The Scavenger Trilogy)",
         "rating": 3,
-        "image": "/images/Shadow_(The_Scavenger_Trilogy).jpg"
+        "image": "/images/Shadow_(The_Scavenger_Trilogy).jpg",
+        "id": "i1aq4b0ndeQC"
     },
     {
         "year": 2020,
         "title": "Old Man's War",
         "rating": 3,
-        "image": "/images/Old_Man's_War.jpg"
+        "image": "/images/Old_Man's_War.jpg",
+        "id": "vGe4wAEACAAJ"
     },
     {
         "year": 2020,
         "title": "Blood of Elves",
         "rating": 3,
-        "image": "/images/Blood_of_Elves.jpg"
+        "image": "/images/Blood_of_Elves.jpg",
+        "id": "xc6NswEACAAJ"
     },
     {
         "year": 2020,
         "title": "The Curse of Chalion",
         "rating": 5,
-        "image": "/images/The_Curse_of_Chalion.jpg"
+        "image": "/images/The_Curse_of_Chalion.jpg",
+        "id": "EOSLl105rhQC"
     },
     {
         "year": 2020,
         "title": "The Goblin Emperor",
         "rating": 4,
-        "image": "/images/The_Goblin_Emperor.jpg"
+        "image": "/images/The_Goblin_Emperor.jpg",
+        "id": "cvcLoAEACAAJ"
     },
     {
         "year": 2020,
         "title": "How To Absurd Scientific Advice for Common Real-World Problems",
         "rating": 4,
-        "image": "/images/How_To_Absurd_Scientific_Advice_for_Common_Real-World_Problems.jpg"
+        "image": "/images/How_To_Absurd_Scientific_Advice_for_Common_Real-World_Problems.jpg",
+        "id": "CZ-rDwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "Paladin of Souls",
         "rating": 4,
-        "image": "/images/Paladin_of_Souls.jpg"
+        "image": "/images/Paladin_of_Souls.jpg",
+        "id": "VDY_jN9gbioC"
     },
     {
         "year": 2020,
         "title": "A Song for Arbonne",
         "rating": 4,
-        "image": "/images/A_Song_for_Arbonne.jpg"
+        "image": "/images/A_Song_for_Arbonne.jpg",
+        "id": "75CADwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "The City We Became",
         "rating": 2.5,
-        "image": "/images/The_City_We_Became.jpg"
+        "image": "/images/The_City_We_Became.jpg",
+        "id": "526DDwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "The Hallowed Hunt",
         "rating": 3.5,
-        "image": "/images/The_Hallowed_Hunt.jpg"
+        "image": "/images/The_Hallowed_Hunt.jpg",
+        "id": "DebQjsg8K6IC"
     },
     {
         "year": 2020,
         "title": "Sailing to Sarantium",
         "rating": 4,
-        "image": "/images/Sailing_to_Sarantium.jpg"
+        "image": "/images/Sailing_to_Sarantium.jpg",
+        "id": "YPWuR6Spo1MC"
     },
     {
         "year": 2020,
         "title": "Age of Empyre",
         "rating": 3.5,
-        "image": "/images/Age_of_Empyre.jpg"
+        "image": "/images/Age_of_Empyre.jpg",
+        "id": "WKIDzgEACAAJ"
     },
     {
         "year": 2020,
         "title": "Thief of Time",
         "rating": 4,
-        "image": "/images/Thief_of_Time.jpg"
+        "image": "/images/Thief_of_Time.jpg",
+        "id": "X7J1FvRrpPoC"
     },
     {
         "year": 2020,
         "title": "Lord of Emperors",
         "rating": 5,
-        "image": "/images/Lord_of_Emperors.jpg"
+        "image": "/images/Lord_of_Emperors.jpg",
+        "id": "dLaMEAAAQBAJ"
     },
     {
         "year": 2020,
         "title": "Penric's Demon",
         "rating": 4,
-        "image": "/images/Penric's_Demon.jpg"
+        "image": "/images/Penric's_Demon.jpg",
+        "id": "CqZVjwEACAAJ"
     },
     {
         "year": 2020,
         "title": "The Collapsing Empire",
         "rating": 4,
-        "image": "/images/The_Collapsing_Empire.jpg"
+        "image": "/images/The_Collapsing_Empire.jpg",
+        "id": "2SoaDAAAQBAJ"
     },
     {
         "year": 2020,
         "title": "Penric and the Shaman",
         "rating": 3.5,
-        "image": "/images/Penric_and_the_Shaman.jpg"
+        "image": "/images/Penric_and_the_Shaman.jpg",
+        "id": "fiApvgAACAAJ"
     },
     {
         "year": 2020,
         "title": "The Consuming Fire",
         "rating": 4,
-        "image": "/images/The_Consuming_Fire.jpg"
+        "image": "/images/The_Consuming_Fire.jpg",
+        "id": "HxdGDwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "Carpe Jugulum",
         "rating": 4,
-        "image": "/images/Carpe_Jugulum.jpg"
+        "image": "/images/Carpe_Jugulum.jpg",
+        "id": "wgOREAAAQBAJ"
     },
     {
         "year": 2020,
         "title": "This is How you Lose the Time War",
         "rating": 4.5,
-        "image": "/images/This_is_How_you_Lose_the_Time_War.jpg"
+        "image": "/images/This_is_How_you_Lose_the_Time_War.jpg",
+        "id": "21_RDwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "Exhalation",
         "rating": 5,
-        "image": "/images/Exhalation.jpg"
+        "image": "/images/Exhalation.jpg",
+        "id": "L61oDwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "The Last Emperox",
         "rating": 4,
-        "image": "/images/The_Last_Emperox.jpg"
+        "image": "/images/The_Last_Emperox.jpg",
+        "id": "BGOSDwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "The Last Light of the Sun",
         "rating": 3.5,
-        "image": "/images/The_Last_Light_of_the_Sun.jpg"
+        "image": "/images/The_Last_Light_of_the_Sun.jpg",
+        "id": "DHM0rwKBf2cC"
     },
     {
         "year": 2020,
         "title": "The Fifth Elephant",
         "rating": 4,
-        "image": "/images/The_Fifth_Elephant.jpg"
+        "image": "/images/The_Fifth_Elephant.jpg",
+        "id": "p1aDzwEACAAJ"
     },
     {
         "year": 2020,
         "title": "River of Stars",
         "rating": 4,
-        "image": "/images/River_of_Stars.jpg"
+        "image": "/images/River_of_Stars.jpg",
+        "id": "6Iz5qLUgj9kC"
     },
     {
         "year": 2020,
         "title": "The Black Prism",
         "rating": 4,
-        "image": "/images/The_Black_Prism.jpg"
+        "image": "/images/The_Black_Prism.jpg",
+        "id": "1QAHs3JSVnEC"
     },
     {
         "year": 2020,
         "title": "Middle Game",
         "rating": 3.5,
-        "image": "/images/Middle_Game.jpg"
+        "image": "/images/Middle_Game.jpg",
+        "id": "xbpuDwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "Children of Earth and Sky",
         "rating": 3.5,
-        "image": "/images/Children_of_Earth_and_Sky.jpg"
+        "image": "/images/Children_of_Earth_and_Sky.jpg",
+        "id": "VZ5iCgAAQBAJ"
     },
     {
         "year": 2020,
         "title": "Gideon the Ninth",
         "rating": 4,
-        "image": "/images/Gideon_the_Ninth.jpg"
+        "image": "/images/Gideon_the_Ninth.jpg",
+        "id": "HHJwDwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "Oathbringer",
         "rating": 5,
-        "image": "/images/Oathbringer.jpg"
+        "image": "/images/Oathbringer.jpg",
+        "id": "VsT3DQAAQBAJ"
     },
     {
         "year": 2020,
         "title": "How to Rule an Empire and Get Away With It",
         "rating": 4,
-        "image": "/images/How_to_Rule_an_Empire_and_Get_Away_With_It.jpg"
+        "image": "/images/How_to_Rule_an_Empire_and_Get_Away_With_It.jpg",
+        "id": "Q3DBDwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "The Blinding Knife",
         "rating": 3,
-        "image": "/images/The_Blinding_Knife.jpg"
+        "image": "/images/The_Blinding_Knife.jpg",
+        "id": "5dIdAaMF8WcC"
     },
     {
         "year": 2020,
         "title": "Rhythm of War",
         "rating": 5,
-        "image": "/images/Rhythm_of_War.jpg"
+        "image": "/images/Rhythm_of_War.jpg",
+        "id": "QCPBDwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "A Brightness Long Ago",
         "rating": 3.5,
-        "image": "/images/A_Brightness_Long_Ago.jpg"
+        "image": "/images/A_Brightness_Long_Ago.jpg",
+        "id": "zchqDwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "To be Taught, if Fortunate",
         "rating": 3,
-        "image": "/images/To_be_Taught,_if_Fortunate.jpg"
+        "image": "/images/To_be_Taught,_if_Fortunate.jpg",
+        "id": "D46IDwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "Harrow the Ninth",
         "rating": 3.5,
-        "image": "/images/Harrow_the_Ninth.jpg"
+        "image": "/images/Harrow_the_Ninth.jpg",
+        "id": "SgWrDwAAQBAJ"
     },
     {
         "year": 2020,
         "title": "The Amazing Maurice and His Educated Rodents",
         "rating": 5,
-        "image": "/images/The_Amazing_Maurice_and_His_Educated_Rodents.jpg"
+        "image": "/images/The_Amazing_Maurice_and_His_Educated_Rodents.jpg",
+        "id": "5kePEAAAQBAJ"
     },
     {
         "year": 2020,
         "title": "The Sandman Act I",
         "rating": 4,
-        "image": "/images/The_Sandman_Act_I.jpg"
+        "image": "/images/The_Sandman_Act_I.jpg",
+        "id": "BUatQgAACAAJ"
     },
     {
         "year": 2020,
         "title": "A Deadly Education",
         "rating": 5,
-        "image": "/images/A_Deadly_Education.jpg"
+        "image": "/images/A_Deadly_Education.jpg",
+        "id": "0YDJDwAAQBAJ"
     }
 ]

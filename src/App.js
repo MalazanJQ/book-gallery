@@ -1,6 +1,7 @@
 import './App.css';
 import Gallery from './components/gallery.js';
 import { useState } from 'react'
+import Nav from './components/nav.js';
 
 export default function MyApp() {
   const years = [2023, 2022, 2021, 2020, 2019, 2018, 2017]
@@ -15,13 +16,18 @@ export default function MyApp() {
 
   return (
     <div class="nine">
-      <h1>BOOK GALLERY
-        <span>All the books I've read since I began recording in 2017.
-        Lists are boring and pictures are fun, so here they are!</span></h1>
+      <h1 id="top">BOOK GALLERY
+        <span>A picture gallery of all the books I've read since I began recording in 2017</span>
+        <span>Because lists are boring and pictures are fun!</span></h1>
+        <Nav years={years}/>
+        <br/>
       {years.map(year => (
-        <div key={year}>
+        <div key={year} id={year}>
           <h1>{year}<span>{booksTotal[year]} books read this year</span></h1>
           <Gallery year={year} count={count}/>
+          <br/>
+          <Nav years={years}/>
+          <br/>
         </div>
       ))}
     </div>

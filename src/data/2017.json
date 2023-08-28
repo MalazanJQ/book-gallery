@@ -3,96 +3,112 @@
         "year": 2017,
         "title": "Dragon Reborn",
         "rating": 3.5,
-        "image": "/images/Dragon_Reborn.jpg"
+        "image": "/images/Dragon_Reborn.jpg",
+        "id": "4nWghD8QV0IC"
     },
     {
         "year": 2017,
         "title": "Shadow Rising",
         "rating": 4,
-        "image": "/images/Shadow_Rising.jpg"
+        "image": "/images/Shadow_Rising.jpg",
+        "id": "EA1wODXZM_AC"
     },
     {
         "year": 2017,
         "title": "Fires of Heaven",
         "rating": 4,
-        "image": "/images/Fires_of_Heaven.jpg"
+        "image": "/images/Fires_of_Heaven.jpg",
+        "id": "9Dk11nEakTYC"
     },
     {
         "year": 2017,
         "title": "White Sand Sanderson",
         "rating": 3,
-        "image": "/images/White_Sand.jpg"
+        "image": "/images/White_Sand.jpg",
+        "id": "NQP3twEACAAJ"
     },
     {
         "year": 2017,
         "title": "Lord of Chaos (WoT)",
         "rating": 4,
-        "image": "/images/Lord_of_Chaos.jpg"
+        "image": "/images/Lord_of_Chaos.jpg",
+        "id": "yLmG1BB4XUQC"
     },
     {
         "year": 2017,
         "title": "A Crown of Swords",
         "rating": 4,
-        "image": "/images/A_Crown_of_Swords.jpg"
+        "image": "/images/A_Crown_of_Swords.jpg",
+        "id": "H7XlVlTPqsIC"
     },
     {
         "year": 2017,
         "title": "Ninefox Gambit",
         "rating": 4.5,
-        "image": "/images/Ninefox_Gambit.jpg"
+        "image": "/images/Ninefox_Gambit.jpg",
+        "id": "elAEDAAAQBAJ"
     },
     {
         "year": 2017,
         "title": "Winter's Heart",
         "rating": 4,
-        "image": "/images/Winter's_Heart.jpg"
+        "image": "/images/Winter's_Heart.jpg",
+        "id": "u9vGo30fXuEC"
     },
     {
         "year": 2017,
         "title": "Crossroads of Twilight",
         "rating": 4,
-        "image": "/images/Crossroads_of_Twilight.jpg"
+        "image": "/images/Crossroads_of_Twilight.jpg",
+        "id": "ER6BqLHOmO4C"
     },
     {
         "year": 2017,
         "title": "Sourcery",
         "rating": 3,
-        "image": "/images/Sourcery.jpg"
+        "image": "/images/Sourcery.jpg",
+        "id": "_pSPngEACAAJ"
     },
     {
         "year": 2017,
         "title": "Raven Stratagem",
         "rating": 5,
-        "image": "/images/Raven_Stratagem.jpg"
+        "image": "/images/Raven_Stratagem.jpg",
+        "id": "8CKPDQAAQBAJ"
     },
     {
         "year": 2017,
         "title": "Knife of Dreams",
         "rating": 4,
-        "image": "/images/Knife_of_Dreams.jpg"
+        "image": "/images/Knife_of_Dreams.jpg",
+        "id": "cejrfFAbiz4C"
     },
     {
         "year": 2017,
         "title": "Mort",
         "rating": 4,
-        "image": "/images/Mort.jpg"
+        "image": "/images/Mort.jpg",
+        "id": "l_eNEAAAQBAJ"
     },
     {
         "year": 2017,
         "title": "Wheel of Osheim",
         "rating": 3.5,
-        "image": "/images/Wheel_of_Osheim.jpg"
+        "image": "/images/Wheel_of_Osheim.jpg",
+        "id": "mT0dDgAAQBAJ"
     },
     {
         "year": 2017,
         "title": "Equal Rites",
         "rating": 4,
-        "image": "/images/Equal_Rites.jpg"
+        "image": "/images/Equal_Rites.jpg",
+        "id": "wrwMcRG_vG8C"
     },
     {
         "year": 2017,
         "title": "The Gathering Storm",
         "rating": 5,
-        "image": "/images/The_Gathering_Storm.jpg"
+        "image": "/images/The_Gathering_Storm.jpg",
+        "id": "aYwWeXYnTBMC"
     }
 ]

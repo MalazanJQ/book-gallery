@@ -1,92 +1,106 @@
-[    
+[
     {
         "year": 2023,
         "title": "Piranesi (Reread)",
         "rating": 5,
-        "image": "/images/Piranesi_(Reread).jpg"
+        "image": "/images/Piranesi_(Reread).jpg",
+        "id": "FCTYDwAAQBAJ"
     },
     {
         "year": 2023,
         "title": "Master Assassins (Fire Sacraments)",
         "rating": 5,
-        "image": "/images/Master_Assassins_(Fire_Sacraments).jpg"
+        "image": "/images/Master_Assassins_(Fire_Sacraments).jpg",
+        "id": "uzKCDwAAQBAJ"
     },
     {
         "year": 2023,
         "title": "Midnight Riot",
         "rating": 3,
-        "image": "/images/Midnight_Riot.jpg"
+        "image": "/images/Midnight_Riot.jpg",
+        "id": "2zDaCwAAQBAJ"
     },
     {
         "year": 2023,
         "title": "The Traitor Baru Cormorant",
         "rating": 4,
-        "image": "/images/The_Traitor_Baru_Cormorant.jpg"
+        "image": "/images/The_Traitor_Baru_Cormorant.jpg",
+        "id": "ve5ICgAAQBAJ"
     },
     {
         "year": 2023,
         "title": "The Bone Shard Emperor",
         "rating": 4.5,
-        "image": "/images/The_Bone_Shard_Emperor.jpg"
+        "image": "/images/The_Bone_Shard_Emperor.jpg",
+        "id": "qQ8iEAAAQBAJ"
     },
     {
         "year": 2023,
         "title": "Emma",
         "rating": 5,
-        "image": "/images/Emma.jpg"
+        "image": "/images/Emma.jpg",
+        "id": "FevYCwAAQBAJ"
     },
     {
         "year": 2023,
         "title": "Haroun and the Sea of Stories",
         "rating": 2,
-        "image": "/images/Haroun_and_the_Sea_of_Stories.jpg"
+        "image": "/images/Haroun_and_the_Sea_of_Stories.jpg",
+        "id": "0WpXPwAACAAJ"
     },
     {
         "year": 2023,
         "title": "The Quicksilver Court",
         "rating": 3,
-        "image": "/images/The_Quicksilver_Court.jpg"
+        "image": "/images/The_Quicksilver_Court.jpg",
+        "id": "yw4iEAAAQBAJ"
     },
     {
         "year": 2023,
         "title": "Children of Time",
         "rating": 4,
-        "image": "/images/Children_of_Time.jpg"
+        "image": "/images/Children_of_Time.jpg",
+        "id": "n7JfDwAAQBAJ"
     },
     {
         "year": 2023,
         "title": "Sea of Tranquility",
         "rating": 2,
-        "image": "/images/Sea_of_Tranquility.jpg"
+        "image": "/images/Sea_of_Tranquility.jpg",
+        "id": "fj84EAAAQBAJ"
     },
     {
         "year": 2023,
         "title": "The Book of Goose",
         "rating": 3.5,
-        "image": "/images/The_Book_of_Goose.jpg"
+        "image": "/images/The_Book_of_Goose.jpg",
+        "id": "Muq6zgEACAAJ"
     },
     {
         "year": 2023,
         "title": "Tyranny of Faith",
         "rating": 2.5,
-        "image": "/images/Tyranny_of_Faith.jpg"
+        "image": "/images/Tyranny_of_Faith.jpg",
+        "id": "N2xzEAAAQBAJ"
     },
     {
         "year": 2023,
         "title": "The Monster Baru Cormorant",
         "rating": 4,
-        "image": "/images/The_Monster_Baru_Cormorant.jpg"
+        "image": "/images/The_Monster_Baru_Cormorant.jpg",
+        "id": "Q6xvDwAAQBAJ"
     },
     {
         "year": 2023,
         "title": "The Power",
         "rating": 4,
-        "image": "/images/The_Power.jpg"
+        "image": "/images/The_Power.jpg",
+        "id": "xS_eDQAAQBAJ"
     },
     {
         "year": 2023,
         "title": "Northanger Abbey",
-        "query": "uyO1DgAAQBAJ",
+        "id": "Zj6FEAAAQBAJ",
         "rating": 3.5,
         "image": "/images/Northanger_Abbey.jpg"
     },
@@ -94,78 +108,90 @@
         "year": 2023,
         "title": "Things Fall Apart",
         "rating": 4,
-        "image": "/images/Things_Fall_Apart.jpg"
+        "image": "/images/Things_Fall_Apart.jpg",
+        "id": "tSbWMu_-D5AC"
     },
     {
         "year": 2023,
         "title": "Jhereg",
         "rating": 3,
-        "image": "/images/Jhereg.jpg"
+        "image": "/images/Jhereg.jpg",
+        "id": "1-4fCwAAQBAJ"
     },
     {
         "year": 2023,
         "title": "How the Other Half Eats",
         "rating": 4,
-        "image": "/images/How_the_Other_Half_Eats.jpg"
+        "image": "/images/How_the_Other_Half_Eats.jpg",
+        "id": "DqcbEAAAQBAJ"
     },
     {
         "year": 2023,
         "title": "Children of Ruin",
         "rating": 3.5,
-        "image": "/images/Children_of_Ruin.jpg"
+        "image": "/images/Children_of_Ruin.jpg",
+        "id": "ENR6DwAAQBAJ"
     },
     {
         "year": 2023,
         "title": "Trust",
         "rating": 2,
-        "image": "/images/Trust.jpg"
+        "image": "/images/Trust.jpg",
+        "id": "NKdPEAAAQBAJ"
     },
     {
         "year": 2023,
         "title": "Every Heart a Doorway",
         "rating": 2,
-        "image": "/images/Every_Heart_a_Doorway.jpg"
+        "image": "/images/Every_Heart_a_Doorway.jpg",
+        "id": "9epYCwAAQBAJ"
     },
     {
         "year": 2023,
         "title": "The Bone Shard War",
         "rating": 4.5,
-        "image": "/images/The_Bone_Shard_War.jpg"
+        "image": "/images/The_Bone_Shard_War.jpg",
+        "id": "nBrbzgEACAAJ"
     },
     {
         "year": 2023,
         "title": "The Candy House",
         "rating": 5,
-        "image": "/images/The_Candy_House.jpg"
+        "image": "/images/The_Candy_House.jpg",
+        "id": "WB9oEAAAQBAJ"
     },
     {
         "year": 2023,
         "title": "Priest of Bones",
         "rating": 4,
-        "image": "/images/Priest_of_Bones.jpg"
+        "image": "/images/Priest_of_Bones.jpg",
+        "id": "fPhsDwAAQBAJ"
     },
     {
         "year": 2023,
         "title": "The Seven Husbands of Evelyn Hugo",
         "rating": 3,
-        "image": "/images/The_Seven_Husbands_of_Evelyn_Hugo.jpg"
+        "image": "/images/The_Seven_Husbands_of_Evelyn_Hugo.jpg",
+        "id": "IdAmDwAAQBAJ"
     },
     {
         "year": 2023,
         "title": "Visit from the Goon Squad",
         "rating": 5,
-        "image": "/images/Visit_from_the_Goon_Squad.jpg"
+        "image": "/images/Visit_from_the_Goon_Squad.jpg",
+        "id": "KpGNejM3nkEC"
     },
     {
         "year": 2023,
         "title": "Priest of Lies",
         "rating": 4,
-        "image": "/images/Priest_of_Lies.jpg"
+        "image": "/images/Priest_of_Lies.jpg",
+        "id": "D4ebDwAAQBAJ"
     },
     {
         "year": 2023,
         "title": "The Tyrant Baru Cormorant",
-        "query": "dQerDwAAQBAJ",
+        "id": "dQerDwAAQBAJ",
         "rating": 4,
         "image": "/images/The_Tyrant_Baru_Cormorant.jpg"
     },
@@ -173,24 +199,28 @@
         "year": 2023,
         "title": "Klara and the Sun",
         "rating": 2,
-        "image": "/images/Klara_and_the_Sun.jpg"
+        "image": "/images/Klara_and_the_Sun.jpg",
+        "id": "azKOEAAAQBAJ"
     },
     {
         "year": 2023,
         "title": "Ivory Tomb",
         "rating": 3.5,
-        "image": "/images/Ivory_Tomb.jpg"
+        "image": "/images/Ivory_Tomb.jpg",
+        "id": "46pnEAAAQBAJ"
     },
     {
         "year": 2023,
         "title": "Mansfield Park",
         "rating": 4,
-        "image": "/images/Mansfield_Park.jpg"
+        "image": "/images/Mansfield_Park.jpg",
+        "id": "krnu-3b88JgC"
     },
     {
         "year": 2023,
         "title": "My Cousin Rachel",
         "rating": 4,
-        "image": "/images/My_Cousin_Rachel.jpg"
+        "image": "/images/My_Cousin_Rachel.jpg",
+        "id": "qq4lAgAAQBAJ"
     }
 ]
