@@ -11,44 +11,28 @@ import { useState, useEffect } from "react";
 
 import FetchBookData from './bookData.js'
 
-const RATING_TO_DIMENSIONS = {
-    5: [200, 300],
-    4.5: [100, 160],
-    4: [200, 300],
-    3.5: [100, 160],
-    3: [200, 300],
-    2.5: [100, 160],
-    2: [200, 300],
-    1.5: [100, 160],
-    1: [200, 300]
-};
-
-export default function Gallery({ year, count }) {
-
+export default function CurrentlyReading() {
     const [books, setBooks] = useState([]);
     const [index, setIndex] = useState(-1);
     const [bookData, setBookData] = useState({});
 
     useEffect(() => {
-        import(`../data/${year}.json`).then(data => {
-            setBooks(data.default)
-            count(year, data.default.length);
+        import(`../data/current.json`).then(data => {
+            setBooks(data.default);
         });
-    }, [year]);
+    }, []);
 
     const photos = books.map(book => {
-        const dimensions = RATING_TO_DIMENSIONS[book.rating]
         return {
             src: book.image,
-            width: dimensions[0],
-            height: dimensions[1]
+            width: 200,
+            height: 300
         };
     });
 
     const lightboxPhotos = photos.map((photo, index) => {
-        const data = bookData[index] || {}
+        const data = bookData[index] || {};
         const summary = DOMPurify.sanitize(data.summary ? data.summary : '').replace(/<\/?b>/g, (match) => match === '<b>' ? '<i>' : '</i>');
-        const stars = `/images/${books[index].rating}_stars.svg`;
         return {
             ...photo,
             width: 575,
@@ -60,7 +44,7 @@ export default function Gallery({ year, count }) {
                     __html: `
                     Page Count: ${data.pages ? data.pages : ''}
                     <br/><br/>
-                    Personal Rating: <img style="filter: grayscale(100%) contrast(800%) brightness(80%)" src=${stars}  width="100" height="20" alt="${books[index.rating]}">
+                    Personal Rating: To be determined...
                     <br/><br/>
                     Summary:
                     <br/><br/> ${summary}`
@@ -84,6 +68,7 @@ export default function Gallery({ year, count }) {
 
     return (
         <>
+            <h1>Currently Reading<span>Now reading {books.length} books</span></h1>
             <PhotoAlbum
                 layout="masonry"
                 photos={photos}
@@ -92,8 +77,8 @@ export default function Gallery({ year, count }) {
                     setIndex(index);
                 }}
             />
-
-            <Lightbox
+            
+            <Lightbox 
                 plugins={[Captions, Counter]}
                 captions={{ showToggle, descriptionMaxLines }}
                 slides={lightboxPhotos}

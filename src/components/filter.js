@@ -12,6 +12,7 @@ const Filter = ({ years, visibleYears, viewYears }) => {
     };
 
     const viewAll = (value) => {
+        viewYears('current', value);
         years.forEach(year => viewYears(year, value));
     };
 
@@ -23,6 +24,12 @@ const Filter = ({ years, visibleYears, viewYears }) => {
                 </Dropdown.Toggle>
                 <Dropdown.Menu>
                     <Dropdown.Item onClick={() => viewAll(true)}> View All </Dropdown.Item>
+                    <Dropdown.Divider />
+                    <Dropdown.Item onClick={() => toggleYear('current')}>
+                        {visibleYears['current'] ? <BsToggleOn /> : <BsToggleOff />}
+                        {" "}
+                        Currently Reading
+                    </Dropdown.Item>
                     <Dropdown.Divider />
                     {years.map(year => (
                         <Dropdown.Item key={year} onClick={() => toggleYear(year)}>

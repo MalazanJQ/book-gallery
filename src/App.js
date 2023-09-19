@@ -4,10 +4,12 @@ import { useState } from 'react'
 import Nav from './components/nav.js';
 import Filter from './components/filter.js';
 import ButtonToolbar from 'react-bootstrap/ButtonToolbar';
+import CurrentlyReading from './components/currentlyReading.js'
 
 export default function App() {
   const years = [2023, 2022, 2021, 2020, 2019, 2018, 2017]
   const [booksTotal, setBooksTotal] = useState({});
+  const [currTotal, setCurrTotal] = useState(0);
 
   const count = (year, booksTotal) => {
     setBooksTotal(prev => ({
@@ -16,7 +18,7 @@ export default function App() {
     }));
   };
 
-  const [visibleYears, setVisibleYears] = useState(years.reduce((accumulator, year) => ({ ...accumulator, [year]: true }), {}));
+  const [visibleYears, setVisibleYears] = useState({ ...years.reduce((accumulator, year) => ({ ...accumulator, [year]: true }), {}), 'current': true });
 
   const viewYears = (year, value) => {
     setVisibleYears(prev => ({
@@ -39,6 +41,9 @@ export default function App() {
         </div>
 
         <br/>
+        <div key="current" id="current">
+          {visibleYears['current'] ? <CurrentlyReading id="current"/> : null}
+        </div>
       {years.map(year => (
         visibleYears[year] ? (
         <div key={year} id={year}>

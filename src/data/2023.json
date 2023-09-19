@@ -222,5 +222,26 @@
         "rating": 4,
         "image": "/images/My_Cousin_Rachel.jpg",
         "id": "qq4lAgAAQBAJ"
+    },
+    {
+        "year": "2023",
+        "title": "Priest of Gallows",
+        "rating": "4.5",
+        "id": "sWAfEAAAQBAJ",
+        "image": "/images/Priest_of_Gallows.jpg"
+    },
+    {
+        "year": "2023",
+        "title": "The Annotated Pride and Prejudice",
+        "rating": "5",
+        "id": "c4gpV1UQuf8C",
+        "image": "/images/The_Annotated_Pride_and_Prejudice.jpg"
+    },
+    {
+        "year": "2023",
+        "title": "Yumi and the Nightmare Painter",
+        "rating": "3.5",
+        "id": "sImkEAAAQBAJ",
+        "image": "/images/Yumi_and_the_Nightmare_Painter.jpg"
     }
 ]

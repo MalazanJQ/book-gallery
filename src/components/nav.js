@@ -23,6 +23,8 @@ const Nav = ({ years, visibleYears }) => {
                 <Dropdown.Menu>
                     <Dropdown.Item onClick={() => smoothScroll("top")}> Top </Dropdown.Item>
                     <Dropdown.Divider />
+                    <Dropdown.Item onClick={() => smoothScroll("current")}> Currently Reading </Dropdown.Item>
+                    <Dropdown.Divider />
                     {years.map(year => (
                         visibleYears[year] ? (
                             <Dropdown.Item onClick={() => smoothScroll(year)}>{year}</Dropdown.Item>
