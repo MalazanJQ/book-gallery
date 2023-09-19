@@ -39,11 +39,18 @@ export default function App() {
             <Filter years={years} visibleYears={visibleYears} viewYears={viewYears}/>
           </ButtonToolbar>
         </div>
-
         <br/>
         <div key="current" id="current">
           {visibleYears['current'] ? <CurrentlyReading id="current"/> : null}
         </div>
+        <br/><br/>
+        <div class="dropdown">
+          <ButtonToolbar>
+            <Nav years={years} visibleYears={visibleYears}/>
+            <Filter years={years} visibleYears={visibleYears} viewYears={viewYears}/>
+          </ButtonToolbar>
+        </div>
+        <br/>
       {years.map(year => (
         visibleYears[year] ? (
         <div key={year} id={year}>
