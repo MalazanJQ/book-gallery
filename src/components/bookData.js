@@ -9,7 +9,7 @@ const FetchBookData = async (id) => {
 
     while (retries < MAX_RETRIES) {
         try {
-            const response = await axios.get(`https://www.googleapis.com/books/v1/volumes/${id}&key${API_KEY}`);
+            const response = await axios.get(`https://www.googleapis.com/books/v1/volumes/${id}?&key${API_KEY}`);
             const data = response.data.volumeInfo;
             return {
                 author: data.authors,
