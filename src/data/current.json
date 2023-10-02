@@ -5,18 +5,18 @@
         "image": "/images/The_Crippled_God.jpg"
     },
     {
-        "title": "The Nickel Boys",
-        "id": "KEeTEAAAQBAJ",
-        "image": "/images/The_Nickel_Boys.jpg"
-    },
-    {
-        "title": "The Bandit Queens",
-        "id": "yJ2OEAAAQBAJ",
-        "image": "/images/The_Bandit_Queens.jpg"
-    },
-    {
         "title": "Priest of Crowns",
         "id": "50w7EAAAQBAJ",
         "image": "/images/Priest_of_Crowns.jpg"
+    },
+    {
+        "title": "The Frugal Wizard's Handbook for Surviving Medieval England",
+        "id": "YImkEAAAQBAJ",
+        "image": "/images/YImkEAAAQBAJ.jpg"
+    },
+    {
+        "title": "Out",
+        "id": "k1lYEAAAQBAJ",
+        "image": "/images/k1lYEAAAQBAJ.jpg"
     }
 ]
