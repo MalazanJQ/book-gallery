@@ -5,21 +5,18 @@
         "image": "/images/The_Crippled_God.jpg"
     },
     {
-        "year": "current",
         "title": "The Boys in the Boat",
         "id": "2p3YPpiA2pEC",
-        "image": "./public/images/The_Boys_in_the_Boat.jpg"
+        "image": "/images/The_Boys_in_the_Boat.jpg"
     },
     {
-        "year": "current",
         "title": "City of Last Chances",
         "id": "LdXREAAAQBAJ",
-        "image": "./public/images/LdXREAAAQBAJ.jpg"
+        "image": "/images/LdXREAAAQBAJ.jpg"
     },
     {
-        "year": "current",
         "title": "Warlock Holmes - My Grave Ritual",
         "id": "-RM3DwAAQBAJ",
-        "image": "./public/images/-RM3DwAAQBAJ.jpg"
+        "image": "/images/-RM3DwAAQBAJ.jpg"
     }
 ]

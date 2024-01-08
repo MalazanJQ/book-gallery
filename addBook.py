@@ -23,20 +23,28 @@ def add_book(year):
                 index += 1
                 show_book_details(book_data, index)
                 correct = input("Is this the correct book?\n")
-
-            rating = input(f"What rating would you give {title}?\n")
+            
+            if year != "current":
+                rating = input(f"What rating would you give {title}?\n")
             official_title = book_data[index]['volumeInfo']['title']
             id = book_data[index]['id']
-            image_name = f"./public/images/{official_title.replace(' ', '_')}.jpg"
+            image_name = f"/images/{id}.jpg"
 
-            data.append({
-                "year": year,
-                "title": official_title,
-                "rating": rating,
-                "id": id,
-                "image": image_name
-                })
-            
+            if year != "current":
+                data.append({
+                    "year": year,
+                    "title": official_title,
+                    "rating": rating,
+                    "id": id,
+                    "image": image_name
+                    })
+            else:
+                data.append({
+                    "title": official_title,
+                    "id": id,
+                    "image": image_name
+                    })
+                                
         year = input("Please enter the year of the next book or type 'quit' to exit.\n")
 
         with open(file, 'w') as json_file:
@@ -54,5 +62,7 @@ if __name__ == "__main__":
     if not os.path.exists(file):
         if input("Do you want to add the new year " + year + "? ").lower() == "yes":
             file = open(f"C:/Users/shini/OneDrive/Github/book-gallery/src/data/{year}.json", "w")
+        with open(file, 'w') as json_file:
+            json.dump([], json_file, indent=4)
     add_book(year)
     print("JSON file updated!")

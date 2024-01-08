@@ -270,62 +270,62 @@
         "title": "The Frugal Wizard\u2019s Handbook for Surviving Medieval England",
         "rating": "3",
         "id": "YImkEAAAQBAJ",
-        "image": "./public/images/The_Frugal_Wizard\u2019s_Handbook_for_Surviving_Medieval_England.jpg"
+        "image": "/images/The_Frugal_Wizard\u2019s_Handbook_for_Surviving_Medieval_England.jpg"
     },
     {
         "year": "2023",
         "title": "Priest of Crowns",
         "rating": "4.5",
         "id": "50w7EAAAQBAJ",
-        "image": "./public/images/Priest_of_Crowns.jpg"
+        "image": "/images/Priest_of_Crowns.jpg"
     },
     {
         "year": "2023",
         "title": "The Woman in Me",
         "rating": "2",
         "id": "mhk_0AEACAAJ",
-        "image": "./public/images/The_Woman_in_Me.jpg"
+        "image": "/images/The_Woman_in_Me.jpg"
     },
     {
         "year": "2023",
         "title": "The Last Devil to Die",
         "rating": "3.5",
         "id": "kPiiEAAAQBAJ",
-        "image": "./public/images/kPiiEAAAQBAJ.jpg"
+        "image": "/images/kPiiEAAAQBAJ.jpg"
     },
     {
         "year": "2023",
         "title": "Wintersmith",
         "rating": "5",
         "id": "BARAHeoZ_1EC",
-        "image": "./public/images/BARAHeoZ_1EC.jpg"
+        "image": "/images/BARAHeoZ_1EC.jpg"
     },
     {
         "year": "2023",
         "title": "Warlock Holmes - A Study in Brimstone",
         "rating": "3.5",
         "id": "e4JpCgAAQBAJ",
-        "image": "./public/images/e4JpCgAAQBAJ.jpg"
+        "image": "/images/e4JpCgAAQBAJ.jpg"
     },
     {
         "year": "2023",
         "title": "The Will of the Many",
         "rating": "3",
         "id": "jlGUEAAAQBAJ",
-        "image": "./public/images/jlGUEAAAQBAJ.jpg"
+        "image": "/images/jlGUEAAAQBAJ.jpg"
     },
     {
         "year": "2023",
         "title": "The Sunlit Man",
         "rating": "3.5",
         "id": "uomkEAAAQBAJ",
-        "image": "./public/images/The_Sunlit_Man.jpg"
+        "image": "/images/The_Sunlit_Man.jpg"
     },
     {
         "year": "2023",
         "title": "Warlock Holmes: The Hell-Hound of the Baskervilles",
         "rating": "3.5",
         "id": "KevhDAAAQBAJ",
-        "image": "./public/images/Warlock_Holmes_The_Hell-Hound_of_the_Baskervilles.jpg"
+        "image": "/images/Warlock_Holmes_The_Hell-Hound_of_the_Baskervilles.jpg"
     }
 ]
