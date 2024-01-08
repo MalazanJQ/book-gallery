@@ -5,18 +5,21 @@
         "image": "/images/The_Crippled_God.jpg"
     },
     {
-        "title": "Priest of Crowns",
-        "id": "50w7EAAAQBAJ",
-        "image": "/images/Priest_of_Crowns.jpg"
+        "year": "current",
+        "title": "The Boys in the Boat",
+        "id": "2p3YPpiA2pEC",
+        "image": "./public/images/The_Boys_in_the_Boat.jpg"
     },
     {
-        "title": "The Frugal Wizard's Handbook for Surviving Medieval England",
-        "id": "YImkEAAAQBAJ",
-        "image": "/images/YImkEAAAQBAJ.jpg"
+        "year": "current",
+        "title": "City of Last Chances",
+        "id": "LdXREAAAQBAJ",
+        "image": "./public/images/LdXREAAAQBAJ.jpg"
     },
     {
-        "title": "Out",
-        "id": "k1lYEAAAQBAJ",
-        "image": "/images/k1lYEAAAQBAJ.jpg"
+        "year": "current",
+        "title": "Warlock Holmes - My Grave Ritual",
+        "id": "-RM3DwAAQBAJ",
+        "image": "./public/images/-RM3DwAAQBAJ.jpg"
     }
 ]

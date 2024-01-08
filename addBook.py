@@ -27,13 +27,7 @@ def add_book(year):
             rating = input(f"What rating would you give {title}?\n")
             official_title = book_data[index]['volumeInfo']['title']
             id = book_data[index]['id']
-
-            image_url = f"http://books.google.com/books/content?id={id}&printsec=frontcover&img=1"
-            image = requests.get(image_url).content
-            image_name = f"/images/{official_title.replace(' ', '_')}.jpg"
-
-            with open (image_name, 'wb') as img_file:
-                img_file.write(image)
+            image_name = f"./public/images/{official_title.replace(' ', '_')}.jpg"
 
             data.append({
                 "year": year,
@@ -54,15 +48,11 @@ def show_book_details(data, index):
     print(current['title'])
     print(current['authors'])
 
-    response = requests.get(current['imageLinks']['thumbnail'], stream=True)
-    response.raw.decode_content = True
-    image = Image.open(response.raw)
-
 if __name__ == "__main__":
     year = input("Enter the year or 'Currently Reading' to add a book to your book list\n")
     file = f"C:/Users/shini/OneDrive/Github/book-gallery/src/data/{year}.json"
     if not os.path.exists(file):
-        with open(file, 'w') as json_file:
-            json.dump([], json_file, indent=4)
+        if input("Do you want to add the new year " + year + "? ").lower() == "yes":
+            file = open(f"C:/Users/shini/OneDrive/Github/book-gallery/src/data/{year}.json", "w")
     add_book(year)
     print("JSON file updated!")
