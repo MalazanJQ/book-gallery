@@ -1,16 +1,16 @@
 [
     {
         "year": "2024",
-        "title": "Saevus Corax Gets Away With Murder",
+        "title": "Saevus Deals with the Dead",
         "rating": "4",
-        "id": "uGC3EAAAQBAJ",
-        "image": "./public/images/Saevus_Corax_Gets_Away_With_Murder.jpg"
+        "id": "9OptEAAAQBAJ",
+        "image": "/images/9OptEAAAQBAJ.jpg"
     },
     {
         "year": "2024",
         "title": "Freshwater",
         "rating": "3.5",
         "id": "_eUoDwAAQBAJ",
-        "image": "./public/images/Freshwater.jpg"
+        "image": "/images/_eUoDwAAQBAJ.jpg"
     }
 ]
