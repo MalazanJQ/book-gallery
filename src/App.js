@@ -31,7 +31,7 @@ export default function App() {
     <div class="nine">
       <h1 id="top">BOOK GALLERY
         <span>A picture gallery of all the books I've read since I began recording in 2017</span>
-        <span>Because lists are boring and pictures are fun!</span></h1>
+      </h1>
         
         <div class="dropdown">
           <ButtonToolbar>
