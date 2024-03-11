@@ -29,9 +29,9 @@ export default function App() {
 
   return (
     <div class="nine">
-      <h1 id="top">BOOK GALLERY
-        <span>A picture gallery of all the books I've read since I began recording in 2017</span>
-      </h1>
+      <h1 id="top">JACQUELINE'S BOOK GALLERY
+        <span>All the books I've read since 2017 :D</span>
+        <span>Click on a book cover for more information!</span></h1>
         
         <div class="dropdown">
           <ButtonToolbar>
