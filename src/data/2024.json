@@ -12,5 +12,47 @@
         "rating": "3.5",
         "id": "_eUoDwAAQBAJ",
         "image": "/images/_eUoDwAAQBAJ.jpg"
+    },
+    {
+        "year": "2024",
+        "title": "Warlock Holmes - My Grave Ritual",
+        "rating": "4",
+        "id": "-RM3DwAAQBAJ",
+        "image": "/images/-RM3DwAAQBAJ.jpg"
+    },
+    {
+        "year": "2024",
+        "title": "City of Last Chances",
+        "rating": "4.5",
+        "id": "JwGfEAAAQBAJ",
+        "image": "/images/JwGfEAAAQBAJ.jpg"
+    },
+    {
+        "year": "2024",
+        "title": "Making Money",
+        "rating": "4",
+        "id": "Xi-wAkaTKAcC",
+        "image": "/images/Xi-wAkaTKAcC.jpg"
+    },
+    {
+        "year": "2024",
+        "title": "Saevus Corax Captures the Castle",
+        "rating": "4",
+        "id": "CwWyEAAAQBAJ",
+        "image": "/images/CwWyEAAAQBAJ.jpg"
+    },
+    {
+        "year": "2024",
+        "title": "Unseen Academicals",
+        "rating": "5",
+        "id": "kVq6qQF-k_sC",
+        "image": "/images/kVq6qQF-k_sC.jpg"
+    },
+    {
+        "year": "2024",
+        "title": "Don Quijote, 2nd Norton Critical Edition",
+        "rating": "4",
+        "id": "Hy36xgEACAAJ",
+        "image": "/images/Hy36xgEACAAJ.jpg"
     }
 ]
