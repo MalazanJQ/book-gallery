@@ -1,17 +1,27 @@
 [
     {
+        "title": "The Crippled God",
+        "id": "9WcmLcVfsxIC",
+        "image": "/images/The_Crippled_God.jpg"
+    },
+    {
+        "title": "Warlock Holmes",
+        "id": "shiWDwAAQBAJ",
+        "image": "/images/shiWDwAAQBAJ.jpg"
+    },
+    {
+        "title": "The Spear Cuts Through Water",
+        "id": "ixwHEAAAQBAJ",
+        "image": "/images/ixwHEAAAQBAJ.jpg"
+    },
+    {
+        "title": "Migrations",
+        "id": "WDGrDwAAQBAJ",
+        "image": "/images/WDGrDwAAQBAJ.jpg"
+    },
+    {
         "title": "The Eye of the World (Reread)",
         "id": "1PgKPuFIz1kC",
         "image": "/images/1PgKPuFIz1kC.jpg"
-    },
-    {
-        "title": "Saevus Corax Gets Away With Murder",
-        "id": "uGC3EAAAQBAJ",
-        "image": "/images/uGC3EAAAQBAJ.jpg"
-    },
-    {
-        "title": "The Rook",
-        "id": "c1Np34dxlh8C",
-        "image": "/images/c1Np34dxlh8C.jpg"
     }
 ]
